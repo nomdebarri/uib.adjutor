@@ -1,0 +1,3807 @@
+{QTtext} {font:Tahoma}
+{plain} {size:20}
+{timeScale:30}
+{width:160} {height:32}
+{timestamps:absolute} {language:0}
+[00:02:00.09]
+{\an9}(Música)
+[00:02:05.22]
+
+[00:02:30.07]
+{\an9}(Música)
+[00:02:35.10]
+
+[00:02:41.07]
+Adéu.
+Adéu.
+[00:02:42.16]
+
+[00:02:43.00]
+{\an9}(Música)
+[00:02:47.10]
+
+[00:02:48.11]
+Has sentit el meu missatge?
+Sí, per això he vengut.
+[00:02:50.23]
+
+[00:02:51.00]
+M'han fet una oferta
+per a la farmàcia.
+[00:02:52.22]
+
+[00:02:52.23]
+Fantàstic.
+[00:02:54.00]
+
+[00:02:54.16]
+Avui és el dia, idò.
+[00:02:55.21]
+
+[00:02:56.10]
+No et voldràs fer enrere?
+[00:02:57.20]
+
+[00:02:58.17]
+Jo, enrere?
+[00:02:59.17]
+
+[00:03:00.00]
+Jo ho tenc claríssim, eh?
+[00:03:01.06]
+
+[00:03:03.09]
+Com s'ho prendrà mon pare?
+No ho sé.
+[00:03:05.20]
+
+[00:03:06.13]
+Ja ho veurem.
+[00:03:07.15]
+
+[00:03:08.13]
+Ens veim allà.
+[00:03:09.13]
+
+[00:03:09.15]
+Vaig a canviar-me, 
+tenc feina després.
+[00:03:11.10]
+
+[00:03:11.11]
+No facis tard.
+[00:03:12.11]
+
+[00:03:13.07]
+Et conec, herbeta.
+[00:03:14.11]
+
+[00:03:14.20]
+{\an9}(Música)
+[00:03:19.20]
+
+[00:03:39.17]
+{\an9}(Música)
+[00:03:45.16]
+
+[00:03:48.02]
+"Ja, ja".
+Ma mare.
+[00:03:49.16]
+
+[00:03:49.17]
+(PARLA EN ALEMANY)
+[00:03:52.04]
+
+[00:03:52.09]
+Mon pare, i ma mare?
+"Ja".
+[00:03:54.12]
+
+[00:03:54.23]
+(PARLA EN ALEMANY)
+[00:03:56.14]
+
+[00:03:57.00]
+Quan torna?
+[00:03:58.03]
+
+[00:03:58.15]
+Fes el favor,
+que és un client important.
+[00:04:00.21]
+
+[00:04:01.10]
+Bé, em firmes tu les notes?
+"Ja, ja".
+[00:04:03.16]
+
+[00:04:04.04]
+"Ja".
+[00:04:05.04]
+
+[00:04:06.05]
+(PARLA EN ALEMANY)
+Mon pare.
+[00:04:08.20]
+
+[00:04:09.06]
+(PARLA EN ALEMANY)
+Però què fas?
+[00:04:11.13]
+
+[00:04:12.01]
+"Okay".
+[00:04:13.01]
+
+[00:04:13.08]
+"Okay".
+[00:04:14.08]
+
+[00:04:15.12]
+(PARLA EN ALEMANY)
+[00:04:19.18]
+
+[00:04:20.16]
+(PARLA EN ALEMANY)
+[00:04:24.04]
+
+[00:04:25.12]
+A tu què et passa ara?
+[00:04:26.23]
+
+[00:04:27.08]
+Que m'havies de firmar les notes.
+No et pengis si ets nou.
+[00:04:30.05]
+
+[00:04:30.17]
+Pep, no t'ho diré pus,
+desconnecta el trasto dels cans,
+[00:04:33.16]
+
+[00:04:33.17]
+cada vegada m'enduc un esglai,
+per poc em cau la porcella.
+[00:04:36.14]
+
+[00:04:36.15]
+Fem lloc, per favor.
+[00:04:37.21]
+
+[00:04:37.22]
+D'ençà que va sortir el catàleg nou
+és l'article més sol·licitat.
+[00:04:41.10]
+
+[00:04:41.19]
+Estic farta de sentir lladrucs
+cada vegada que passa algú.
+[00:04:45.07]
+
+[00:04:45.20]
+A mi tampoc m'agrada,
+m'estimaria més un ca de veres.
+[00:04:48.12]
+
+[00:04:48.13]
+Els cans de veres ho deixen tot
+ple de pèl i microbis.
+[00:04:51.14]
+
+[00:04:51.17]
+Per això tothom està alabat
+del Canis Eleven,
+[00:04:53.22]
+
+[00:04:53.23]
+{\an5}et guarda la casa 
+com un ca de veres
+[00:04:55.19]
+
+[00:04:55.20]
+{\an5}sense inconvenients
+dels cans de veres.
+[00:04:57.21]
+
+[00:04:57.22]
+Em firmes les notes?
+Sí, on són?
+[00:04:59.20]
+
+[00:05:00.02]
+Les té mon pare.
+[00:05:01.03]
+
+[00:05:01.16]
+Per què no te les ha firmades?
+Mira què ha fet.
+[00:05:04.10]
+
+[00:05:04.18]
+Però què fas?
+[00:05:05.21]
+
+[00:05:06.04]
+Has escrit
+damunt les notes de la nina.
+[00:05:08.02]
+
+[00:05:08.03]
+Necessit aquestes xifres.
+[00:05:09.13]
+
+[00:05:09.21]
+Jo flip.
+És que de veres, du això cap aquí.
+[00:05:12.22]
+
+[00:05:13.18]
+Ves a cercar la jaqueta
+i deixa la motxilla.
+[00:05:16.02]
+
+[00:05:17.14]
+(BUFA)
+[00:05:18.22]
+
+[00:05:19.08]
+Tu estàs, Pep?
+Gairebé.
+[00:05:21.00]
+
+[00:05:26.17]
+En tornar del dinar
+podrem xerrar una estona?
+[00:05:29.01]
+
+[00:05:30.01]
+Sí, ara mateix,
+acab això i ja està.
+[00:05:32.07]
+
+[00:05:32.08]
+No, no et dic ara,
+ara hem de partir,
+[00:05:34.08]
+
+[00:05:34.09]
+dic després, en tornar del dinar.
+[00:05:36.04]
+
+[00:05:37.20]
+Sí, molt millor, millor.
+[00:05:39.08]
+
+[00:05:39.16]
+{\an9}(Música)
+[00:05:44.16]
+
+[00:05:59.19]
+Oh.
+[00:06:00.19]
+
+[00:06:01.08]
+Són precioses.
+[00:06:02.22]
+
+[00:06:03.10]
+Gràcies per comprar-les.
+[00:06:04.21]
+
+[00:06:05.08]
+Aquestes
+sempre em fan pensar en tu.
+[00:06:07.03]
+
+[00:06:07.20]
+No hi ha cap altra flor com aquesta.
+[00:06:09.15]
+
+[00:06:10.03]
+Ara que estàs aquí,
+ensuma aquesta salsa.
+[00:06:12.12]
+
+[00:06:14.09]
+Oh, quina oloreta.
+[00:06:16.02]
+
+[00:06:16.17]
+Aquesta recepta és nova, o no? 
+És la primera vegada que la faig.
+[00:06:20.07]
+
+[00:06:20.19]
+Ai, aquell gustet
+que queda al paladar quan...
+[00:06:23.20]
+
+[00:06:23.21]
+"Aquell gustet", què és?
+[00:06:25.14]
+
+[00:06:26.04]
+Oporto?
+[00:06:27.04]
+
+[00:06:27.17]
+Ai,
+els al·lots et faran un monument.
+[00:06:30.01]
+
+[00:06:30.08]
+No em xerris dels al·lots,
+[00:06:31.22]
+
+[00:06:31.23]
+no sé per què han insistit tant
+en dinar plegats avui.
+[00:06:35.00]
+
+[00:06:35.07]
+Perquè fas els anys, Josep.
+[00:06:37.04]
+
+[00:06:37.24]
+No hi ha res a celebrar,
+ho fan per tocar els orgues.
+[00:06:40.20]
+
+[00:06:40.21]
+Sempre has celebrat els anys
+amb ells.
+[00:06:43.00]
+
+[00:06:43.01]
+A més, mira el guster que has passat
+fent el dinar.
+[00:06:45.14]
+
+[00:06:45.20]
+Hauria passat un guster
+per fer-lo per a tu i jo.
+[00:06:48.18]
+
+[00:06:49.04]
+Hauríem estat més tranquils.
+[00:06:50.15]
+
+[00:06:51.06]
+No discuteixis amb ells.
+[00:06:52.12]
+
+[00:06:52.13]
+{\an9}(Timbre)
+[00:06:54.03]
+
+[00:06:54.04]
+Mira, què no ho veus?
+Tot ho fan per emprenyar.
+[00:06:57.00]
+
+[00:06:57.05]
+Els vaig fer una clau
+per a cada un.
+[00:06:59.04]
+
+[00:06:59.05]
+Per quins set sous
+han de tocar el timbre?
+[00:07:01.06]
+
+[00:07:01.07]
+Si no mudes d'actitud,
+aquest dinar no acabarà bé.
+[00:07:04.06]
+
+[00:07:05.01]
+Hola.
+[00:07:06.01]
+
+[00:07:06.11]
+Veus? Ja han entrat.
+[00:07:07.22]
+
+[00:07:08.10]
+Ave Maria Puríssima,
+on deixam la porcella?
+[00:07:10.19]
+
+[00:07:10.20]
+Per l'amor de Déu,
+on anau amb la porcella?
+[00:07:13.06]
+
+[00:07:13.10]
+Molts d'anys, Josep.
+Ei, reina.
+[00:07:15.13]
+
+[00:07:16.18]
+Hola, padrí, molts d'anys.
+(RIU)
+[00:07:19.01]
+
+[00:07:19.15]
+No havíem quedat
+que duríem el dinar nosaltres?
+[00:07:21.22]
+
+[00:07:21.23]
+Si no saps fer un ou bullit.
+[00:07:23.12]
+
+[00:07:23.13]
+Et vaig dir
+que comanaríem una porcella.
+[00:07:25.14]
+
+[00:07:25.15]
+Això ho has somiat.
+[00:07:26.17]
+
+[00:07:27.04]
+Què has fet per dinar?
+[00:07:28.12]
+
+[00:07:28.20]
+Ui, per dinar...
+[00:07:29.22]
+
+[00:07:29.23]
+Mira, per picar tenim
+una coca de ceba caramel·litzada,
+[00:07:33.06]
+
+[00:07:33.20]
+això és un mesclum de bolets
+aromatitzat amb tòfona,
+[00:07:36.08]
+
+[00:07:36.16]
+i el plat estrella és això d'aquí.
+[00:07:38.18]
+
+[00:07:39.18]
+Llom de porc farcit amb fruits secs
+i salsa d'Oporto.
+[00:07:44.14]
+
+[00:07:45.10]
+Veus com no podia ser?
+A ton pare li agrada massa cuinar.
+[00:07:48.09]
+
+[00:07:48.10]
+Et jur que havíem quedat
+que duríem el dinar nosaltres.
+[00:07:51.02]
+
+[00:07:51.03]
+Porcella rostida de Ca'n Ros
+al forn de llenya.
+[00:07:53.10]
+
+[00:07:53.11]
+Digue'm on la puc deixar,
+que encara em caurà.
+[00:07:55.21]
+
+[00:07:55.22]
+Deixa-la aquí, però no la traurem,
+he fet menjar per a un regiment.
+[00:07:59.15]
+
+[00:08:00.00]
+I de dolç?
+[00:08:01.00]
+
+[00:08:01.14]
+De dolç, res.
+[00:08:02.14]
+
+[00:08:03.08]
+Padrí...
+Hi ha qualque poma i plàtans.
+[00:08:06.01]
+
+[00:08:06.24]
+Padrí.
+[00:08:07.24]
+
+[00:08:09.08]
+(RIU)
+[00:08:10.17]
+
+[00:08:11.11]
+És broma.
+[00:08:12.11]
+
+[00:08:12.20]
+He fet un brownie
+que vos mossegareu les genives.
+[00:08:15.15]
+
+[00:08:16.18]
+Brownie.
+"Ladies and gentlemans".
+[00:08:19.05]
+
+[00:08:21.14]
+Bon dia, simples mortals.
+[00:08:23.10]
+
+[00:08:23.11]
+Llevau-vos d'enmig,
+[00:08:24.15]
+
+[00:08:24.17]
+perquè ha arribat
+el rei del rock and roll.
+[00:08:27.12]
+
+[00:08:27.13]
+# Wop-bop-a-loom-a-boom-bam-boom. #
+[00:08:29.12]
+
+[00:08:29.19]
+I aquest...
+Molts d'anys!
+[00:08:31.17]
+
+[00:08:31.20]
+Com vens, tu? Què és això?
+[00:08:33.18]
+
+[00:08:34.04]
+On has deixat en Freddie Mercury?
+Molt graciós.
+[00:08:36.20]
+
+[00:08:37.04]
+T'he dit que tenia un bolo,
+què volies que fes?
+[00:08:39.10]
+
+[00:08:39.11]
+Canviar-te abans de venir?
+[00:08:41.03]
+
+[00:08:41.04]
+No valia la pena,
+en tenc un avui horabaixa.
+[00:08:43.09]
+
+[00:08:43.10]
+Fas doblet?
+Si que cotitza n'Elvis, no?
+[00:08:46.02]
+
+[00:08:46.07]
+Senyora presidenta 
+del meu club de fans,
+[00:08:48.12]
+
+[00:08:48.13]
+saps que quan un és bo, és bo.
+[00:08:50.14]
+
+[00:08:50.15]
+Ja t'agradaria a tu
+tenir club de fans.
+[00:08:52.17]
+
+[00:08:53.04]
+He signat un autògraf avui.
+Ah sí?
+[00:08:55.03]
+
+[00:08:55.04]
+A qui? A un guiri gat?
+[00:08:56.15]
+
+[00:08:56.19]
+Com ho saps?
+(RIU)
+[00:08:58.09]
+
+[00:08:59.05]
+I en Klaus no ve?
+[00:09:00.08]
+
+[00:09:00.21]
+Té un dinar de feina.
+Sí, amb els Beatles.
+[00:09:03.03]
+
+[00:09:03.04]
+(RIU)
+[00:09:04.06]
+
+[00:09:04.07]
+Estimada cunyada,
+no sé com l'aguantes.
+[00:09:06.10]
+
+[00:09:08.16]
+Mem...
+[00:09:09.16]
+
+[00:09:12.06]
+Què?
+[00:09:13.06]
+
+[00:09:14.00]
+Et com a brillen els ulls.
+Ai, no diguis dois.
+[00:09:16.16]
+
+[00:09:16.17]
+{\an9}(Mòbil)
+[00:09:17.20]
+
+[00:09:17.21]
+Ni el toquis, el telèfon.
+[00:09:19.11]
+
+[00:09:20.02]
+Només volia mirar qui era.
+[00:09:21.12]
+
+[00:09:22.01]
+No sé que vos passa al jovent,
+[00:09:23.24]
+
+[00:09:24.00]
+sempre penjats
+al punyetero telèfon.
+[00:09:25.20]
+
+[00:09:25.21]
+Començ a fer plats?
+[00:09:27.01]
+
+[00:09:27.11]
+Jes, t'ajut.
+[00:09:28.11]
+
+[00:09:30.02]
+Hi ha menjar per a 50?
+No diguis res.
+[00:09:32.15]
+
+[00:09:34.00]
+Porcella rostida, llom...
+[00:09:35.21]
+
+[00:09:36.07]
+Què vos han fet els porcs?
+[00:09:37.13]
+
+[00:09:38.13]
+Quina mania
+en menjar animals morts
+[00:09:40.10]
+
+[00:09:40.17]
+amb les opcions vegetarianes
+i saludables que hi ha.
+[00:09:43.05]
+
+[00:09:43.06]
+També hi ha bolets i ensalada.
+[00:09:44.22]
+
+[00:09:45.04]
+Vos agradaria que vos escorxassin
+i fiquessin al forn?
+[00:09:47.24]
+
+[00:09:48.07]
+Deixa'l fer,
+pensa que n'Elvis menjava tofu.
+[00:09:51.06]
+
+[00:09:51.07]
+(RIU)
+[00:09:52.07]
+
+[00:09:52.17]
+{\an9}(Música)
+[00:09:58.12]
+
+[00:10:05.10]
+Així què, brindam?
+[00:10:06.14]
+
+[00:10:07.01]
+Sí, venga.
+[00:10:08.02]
+
+[00:10:08.05]
+Treu el cava.
+Deixa-ho estar.
+[00:10:10.07]
+
+[00:10:10.24]
+No hi ha cava.
+[00:10:12.02]
+
+[00:10:12.08]
+Brindam amb vi?
+[00:10:13.11]
+
+[00:10:13.19]
+Sempre volies brindar amb cava.
+[00:10:15.09]
+
+[00:10:16.05]
+Enguany no.
+I això?
+[00:10:17.23]
+
+[00:10:18.24]
+Perquè no hi ha cava.
+Per què no n'has comprat?
+[00:10:21.16]
+
+[00:10:22.17]
+Perquè no m'ha vengut bé.
+[00:10:24.00]
+
+[00:10:24.06]
+Si ho hagués sabut,
+hagués duit combutxa.
+[00:10:26.07]
+
+[00:10:26.08]
+El què?
+No saps què és?
+[00:10:27.21]
+
+[00:10:27.22]
+Ni idea.
+[00:10:28.22]
+
+[00:10:28.23]
+És una beguda miraculosa
+feta amb ferment...
+[00:10:31.04]
+
+[00:10:31.05]
+Ai, quin oi.
+Brindarem amb el vi.
+[00:10:32.23]
+
+[00:10:33.03]
+Venga, idò.
+Duis les copes, au, xerra.
+[00:10:35.03]
+
+[00:10:35.24]
+Jo no tenc xerrera.
+[00:10:37.04]
+
+[00:10:37.05]
+Venga, que xerri.
+Que xerri.
+[00:10:39.23]
+
+[00:10:39.24]
+Que xerri.
+Que xerri.
+[00:10:42.16]
+
+[00:10:45.09]
+(SOSPIRA)
+[00:10:46.11]
+
+[00:10:47.07]
+Què voleu que vos digui?
+[00:10:48.15]
+
+[00:10:49.05]
+Ja n'he fet 64,
+[00:10:50.14]
+
+[00:10:51.22]
+que vol dir
+que ja tenc un peu a la jubilació.
+[00:10:54.15]
+
+[00:10:55.12]
+L'any que ve em jubilaré.
+[00:10:56.22]
+
+[00:10:58.20]
+I això vol dir
+que ja comença a ser hora
+[00:11:01.09]
+
+[00:11:01.10]
+que tu deixis les juguetetes
+[00:11:02.24]
+
+[00:11:03.02]
+i et posis al capdavant
+de la farmàcia.
+[00:11:05.00]
+
+[00:11:05.01]
+Les meves juguetetes
+funcionen molt bé.
+[00:11:07.01]
+
+[00:11:07.04]
+La meva franquícia
+és la més ben valorada
+[00:11:09.04]
+
+[00:11:09.05]
+del sud d'Europa.
+[00:11:10.06]
+
+[00:11:11.20]
+Molt bé i t'han anat molt bé 
+per estar entretingut fins ara.
+[00:11:15.08]
+
+[00:11:16.00]
+Ara és hora de fer feina
+de bon de veres.
+[00:11:18.00]
+
+[00:11:18.09]
+La farmàcia t'espera,
+la farmàcia Alcover,
+[00:11:20.18]
+
+[00:11:20.21]
+creada pel meu repadrí 
+i regentada pel meu padrí
+[00:11:24.03]
+
+[00:11:24.04]
+i per mon pare i per jo.
+Mon pare.
+[00:11:26.05]
+
+[00:11:26.06]
+Sí, però...
+Ara és el teu torn.
+[00:11:28.12]
+
+[00:11:28.17]
+Sí, però jo...
+És llei de vida.
+[00:11:30.20]
+
+[00:11:30.23]
+Pep.
+[00:11:31.23]
+
+[00:11:33.10]
+Llei de vida...
+[00:11:34.10]
+
+[00:11:36.03]
+Així què? Brindam?
+[00:11:37.15]
+
+[00:11:38.16]
+Sí, venga.
+[00:11:40.00]
+
+[00:11:42.07]
+Molts d'anys.
+Molts d'anys.
+[00:11:44.07]
+
+[00:11:44.08]
+Molts d'anys.
+Puc dur el brownie ja?
+[00:11:46.07]
+
+[00:11:46.20]
+Sí, és damunt la paradora.
+[00:11:48.09]
+
+[00:11:50.00]
+M'acompanyes un segon
+a la terrassa?
+[00:11:51.19]
+
+[00:11:51.20]
+T'he de comentar una cosa.
+[00:11:53.07]
+
+[00:11:53.14]
+{\an9}(Música)
+[00:11:57.14]
+
+[00:11:59.18]
+Quina bona pinta que fa.
+[00:12:01.03]
+
+[00:12:04.21]
+En vols, Joana?
+Sí.
+[00:12:06.07]
+
+[00:12:08.16]
+Gràcies.
+[00:12:09.16]
+
+[00:12:09.21]
+Ja em direu què en pensau.
+[00:12:12.11]
+
+[00:12:14.08]
+{\an9}(Música)
+[00:12:17.10]
+
+[00:12:17.20]
+És bo, eh?
+[00:12:18.22]
+
+[00:12:20.04]
+Boníssim.
+Sí, no?
+[00:12:21.19]
+
+[00:12:23.06]
+Vaig un moment al bany.
+[00:12:24.16]
+
+[00:12:25.12]
+Ja sé què em diràs.
+[00:12:26.24]
+
+[00:12:27.06]
+Era el moment perfecte.
+Era el moment perfecte.
+[00:12:29.13]
+
+[00:12:29.14]
+Per què no li has dit?
+No em posis nerviós.
+[00:12:31.18]
+
+[00:12:31.19]
+Havíem quedat que li diries avui.
+Li ho diré.
+[00:12:34.03]
+
+[00:12:34.18]
+No sé com.
+És molt bo de fer.
+[00:12:36.18]
+
+[00:12:36.19]
+"Mon pare, gràcies,
+no vull la farmàcia
+[00:12:38.19]
+
+[00:12:38.20]
+i ja tenc comprador".
+[00:12:39.21]
+
+[00:12:40.01]
+No, "volem", "tenim",
+no "vull" i "tenc".
+[00:12:42.19]
+
+[00:12:42.20]
+Tu i jo estam junts,
+no tiris la pedra i amaguis la mà.
+[00:12:45.17]
+
+[00:12:45.18]
+Tu has fet les gestions. 
+Perquè ets un gandularro.
+[00:12:48.11]
+
+[00:12:50.02]
+Necessit els doblers aviat.
+[00:12:51.14]
+
+[00:12:53.20]
+Quan has de pagar les accions?
+[00:12:55.10]
+
+[00:12:56.07]
+Per confirmar que vull ser soci 
+i aportar capital són dos mesos.
+[00:12:59.11]
+
+[00:13:00.20]
+S'ho han pensat bé
+això de fer-te soci de l'empresa?
+[00:13:03.17]
+
+[00:13:03.18]
+Si m'ho han ofert
+deu ser que m'ho meresc.
+[00:13:05.21]
+
+[00:13:06.01]
+He fet molta feina
+per arribar aquí,
+[00:13:07.20]
+
+[00:13:07.21]
+no sé per què mon pare no ho entén.
+Perquè és caparrut.
+[00:13:10.13]
+
+[00:13:11.06]
+I tu li tens por?
+I tu?
+[00:13:13.01]
+
+[00:13:13.11]
+Jo no. 
+No poc.
+[00:13:14.14]
+
+[00:13:15.00]
+Sempre li he dit tot.
+No.
+[00:13:16.17]
+
+[00:13:16.21]
+Sempre m'has empès a mi
+perquè fes de portaveu
+[00:13:19.07]
+
+[00:13:19.08]
+i quan m'he girat,
+ja no hi eres.
+[00:13:20.23]
+
+[00:13:20.24]
+Perquè som el petit.
+[00:13:22.04]
+
+[00:13:22.05]
+He après a fer la meva.
+No em facis xerrar.
+[00:13:24.12]
+
+[00:13:25.13]
+No has hagut d'estudiar Farmàcia
+per fer-lo content.
+[00:13:28.00]
+
+[00:13:28.01]
+Si no has acabat la carrera. 
+Només em falta una assignatura.
+[00:13:31.02]
+
+[00:13:31.03]
+Què volies que fes?
+Amb 20 anys em van oferir feina.
+[00:13:33.18]
+
+[00:13:33.22]
+Gràcies a això
+som a punt de ser-ne soci.
+[00:13:36.09]
+
+[00:13:36.17]
+Això és si pots pagar les accions.
+[00:13:38.16]
+
+[00:13:39.07]
+Pareix que només soc jo
+que necessit els doblers, i tu?
+[00:13:41.24]
+
+[00:13:42.04]
+Jo què?
+Quan penses dir-li que et cases?
+[00:13:44.08]
+
+[00:13:44.09]
+I que vols la teva part de farmàcia
+per comprar-te una casa?
+[00:13:47.11]
+
+[00:13:47.12]
+Al seu moment.
+I quan serà?
+[00:13:49.09]
+
+[00:13:50.01]
+Quan li diguis
+que no tens la carrera
+[00:13:51.21]
+
+[00:13:51.22]
+i que no vols la farmàcia.
+[00:13:53.05]
+
+[00:13:53.09]
+{\an9}(Música)
+[00:13:56.16]
+
+[00:13:58.16]
+Me matarà.
+[00:13:59.16]
+
+[00:14:01.15]
+Ens matarà.
+[00:14:02.23]
+
+[00:14:04.07]
+El dia que no pugui fer
+un brownie con Déu mana
+[00:14:06.19]
+
+[00:14:06.20]
+serà senya
+que ja vaig cap per avall.
+[00:14:09.03]
+
+[00:14:10.13]
+Però vaja, encara falta molt.
+Va, sí.
+[00:14:13.20]
+
+[00:14:15.12]
+No menges? 
+Sí, és que...
+[00:14:18.06]
+
+[00:14:18.18]
+No m'has de fer un lleig.
+[00:14:20.03]
+
+[00:14:22.01]
+{\an9}(Música)
+[00:14:24.16]
+
+[00:14:25.19]
+És bo, eh?
+Mmm... Sí.
+[00:14:27.10]
+
+[00:14:27.22]
+I aquests dos què es duen,
+tants secretets?
+[00:14:30.01]
+
+[00:14:30.02]
+No voleu brownie vosaltres?
+[00:14:31.15]
+
+[00:14:32.11]
+Sí, d'aquí una estona.
+[00:14:33.23]
+
+[00:14:33.24]
+Toni, això no té carn, eh?
+[00:14:35.11]
+
+[00:14:36.03]
+No, gràcies, si rebent la roba
+tendré un problema.
+[00:14:39.06]
+
+[00:14:40.08]
+Quina duis de cap?
+Nosaltres? No res.
+[00:14:43.11]
+
+[00:14:44.14]
+Res, res de res.
+[00:14:46.04]
+
+[00:14:49.01]
+Em preneu per bàmbol?
+[00:14:50.08]
+
+[00:14:52.08]
+Només una coseta.
+[00:14:53.10]
+
+[00:14:55.02]
+Petita.
+[00:14:56.05]
+
+[00:14:58.12]
+En Pep t'ha de dir una cosa.
+[00:15:00.00]
+
+[00:15:01.20]
+Què?
+No, bé, que...
+[00:15:03.16]
+
+[00:15:06.19]
+Que de vegades a la vida
+les coses no són com un preveu
+[00:15:09.24]
+
+[00:15:10.16]
+i que ens trobam que...
+[00:15:12.08]
+
+[00:15:13.04]
+Vaja...
+[00:15:14.04]
+
+[00:15:15.10]
+Què?
+[00:15:16.10]
+
+[00:15:18.05]
+És per...
+[00:15:19.05]
+
+[00:15:19.18]
+Per anar al gra
+i per dir-ho directament,
+[00:15:21.23]
+
+[00:15:22.22]
+això, mon pare, que...
+[00:15:24.10]
+
+[00:15:26.16]
+Que en Toni es casa.
+[00:15:27.23]
+
+[00:15:30.05]
+Tendrem unes noces a la família,
+ja era ben hora, no?
+[00:15:33.01]
+
+[00:15:35.08]
+Et cases, conco Toni?
+[00:15:36.18]
+
+[00:15:38.04]
+Sí.
+[00:15:39.04]
+
+[00:15:39.19]
+Que guai, i quan?
+[00:15:40.24]
+
+[00:15:41.24]
+Aviat, encara no tenim data exacta.
+Toni, això és vera?
+[00:15:45.02]
+
+[00:15:45.10]
+Sí.
+[00:15:46.14]
+
+[00:15:48.10]
+Jesús, Maria i Josep.
+[00:15:49.22]
+
+[00:15:49.23]
+(RIU)
+[00:15:50.24]
+
+[00:15:51.00]
+Em pensava
+no arribaria mai aquest moment.
+[00:15:53.10]
+
+[00:15:53.11]
+Gràcies, mon pare.
+[00:15:54.14]
+
+[00:15:54.21]
+Em pensava que mai posaries seny.
+[00:15:56.17]
+
+[00:15:57.05]
+Idò ja ho veus.
+[00:15:58.06]
+
+[00:15:58.07]
+Jo tampoc no em pensava
+que et casaries mai.
+[00:16:00.15]
+
+[00:16:00.20]
+Sempre en festejaves de diferents.
+[00:16:02.14]
+
+[00:16:02.15]
+Laura.
+Però què passa?
+[00:16:04.11]
+
+[00:16:04.12]
+M'ho has dit moltes vegades.
+[00:16:06.03]
+
+[00:16:06.07]
+Cunyada. 
+Ai, Toniet.
+[00:16:08.05]
+
+[00:16:08.22]
+Diguéssim que has viscut la vida,
+o no?
+[00:16:11.01]
+
+[00:16:13.12]
+Un poc.
+[00:16:14.14]
+
+[00:16:14.18]
+{\an9}(Música)
+[00:16:20.07]
+
+[00:16:37.01]
+Ha arribat el moment
+de fer un canvi d'etapa.
+[00:16:39.09]
+
+[00:16:39.19]
+Bé, idò haurem de brindar això.
+[00:16:41.19]
+
+[00:16:42.05]
+És igual, no importa brindar.
+[00:16:43.17]
+
+[00:16:44.11]
+Mem, i...
+[00:16:45.11]
+
+[00:16:46.08]
+I qui és ella?
+[00:16:47.10]
+
+[00:16:47.24]
+Ella?
+Ella?
+[00:16:48.24]
+
+[00:16:49.01]
+Ella?
+[00:16:50.01]
+
+[00:16:50.21]
+Què vol dir, qui és ella?
+Com que què vol dir?
+[00:16:53.13]
+
+[00:16:54.01]
+Amb qui et cases?
+[00:16:55.05]
+
+[00:16:56.01]
+Jo...
+[00:16:57.01]
+
+[00:16:57.08]
+Tu només xerres d'aquell alamanyot.
+En Klaus.
+[00:17:00.04]
+
+[00:17:01.13]
+En Klaus.
+[00:17:02.13]
+
+[00:17:04.01]
+Tens raó.
+[00:17:05.03]
+
+[00:17:05.19]
+En Klaus.
+[00:17:06.19]
+
+[00:17:09.01]
+Em queia bé, maldament fos...
+[00:17:10.18]
+
+[00:17:12.21]
+Bé, vull dir...
+[00:17:14.03]
+
+[00:17:14.12]
+Pareixia una persona condreta,
+més que tu.
+[00:17:17.01]
+
+[00:17:17.19]
+Ho és.
+[00:17:18.19]
+
+[00:17:19.21]
+Què vols dir amb "maldament fos"?
+[00:17:22.09]
+
+[00:17:22.15]
+Fos què?
+[00:17:23.15]
+
+[00:17:25.08]
+Fos res.
+[00:17:26.08]
+
+[00:17:27.00]
+(TOSSEIX)
+[00:17:29.10]
+
+[00:17:29.18]
+Perdó.
+[00:17:30.18]
+
+[00:17:31.00]
+Ma mare. 
+(TOSSEIX)
+[00:17:32.12]
+
+[00:17:32.13]
+Joana? 
+(TOSSEIX)
+[00:17:35.06]
+
+[00:17:35.10]
+I ara què ha estat?
+[00:17:36.16]
+
+[00:17:37.10]
+Pentura hi hauries d'anar.
+[00:17:38.16]
+
+[00:17:41.19]
+No sé què te.
+Pep.
+[00:17:43.05]
+
+[00:17:44.12]
+Ves-hi.
+[00:17:45.12]
+
+[00:17:46.00]
+Ah, sí.
+[00:17:47.07]
+
+[00:17:47.17]
+{\an9}(Música)
+[00:17:50.13]
+
+[00:17:53.10]
+Què li passa?
+No deu estar fina.
+[00:17:55.14]
+
+[00:17:56.08]
+Mon pare, això de les noces...
+[00:17:57.24]
+
+[00:17:58.02]
+No, escolta,
+això de les noces ja en parlarem.
+[00:18:01.02]
+
+[00:18:01.03]
+No veus que no pot ser?
+[00:18:02.14]
+
+[00:18:02.15]
+Podem xerrar quan vulguis,
+però està decidit.
+[00:18:04.24]
+
+[00:18:06.06]
+Sé que mai m'has pres seriosament.
+[00:18:08.05]
+
+[00:18:08.06]
+Com vols
+que et prengui seriosament?
+[00:18:10.08]
+
+[00:18:10.24]
+Tu t'has vist? Has mirat com vas?
+[00:18:12.18]
+
+[00:18:13.05]
+Amb aquesta "suerte"?
+[00:18:15.01]
+
+[00:18:15.18]
+Amb aquesta còfia pel cap.
+[00:18:17.05]
+
+[00:18:17.06]
+Aquesta còfia és una perruca
+de n'Elvis Presley,
+[00:18:20.06]
+
+[00:18:20.07]
+i és la meva feina.
+[00:18:21.09]
+
+[00:18:21.21]
+Feina?
+[00:18:22.21]
+
+[00:18:24.18]
+{\an9}(Mòbil)
+[00:18:25.24]
+
+[00:18:26.00]
+No vos he dit que deixeu el mòbil?
+És el d'en Pep.
+[00:18:28.22]
+
+[00:18:29.13]
+Tècnicament hem acabat de dinar.
+[00:18:31.05]
+
+[00:18:31.10]
+Quina creu.
+[00:18:32.14]
+
+[00:18:33.21]
+No, en Pep no s'hi pot posar ara.
+[00:18:36.01]
+
+[00:18:36.19]
+Sí, la farmàcia Alcover, sí.
+[00:18:38.13]
+
+[00:18:40.17]
+No, escolti,
+hi ha un error, no la venem.
+[00:18:43.02]
+
+[00:18:43.08]
+{\an9}(Música)
+[00:18:45.21]
+
+[00:18:45.23]
+S'ha equivocat, li dic.
+[00:18:47.07]
+
+[00:18:48.00]
+Mem, però qui és vostè?
+[00:18:49.09]
+
+[00:18:52.01]
+Miri, ja li diré al meu fill
+que li telefoni.
+[00:18:54.22]
+
+[00:18:55.12]
+Però sàpiga que la farmàcia Alcover
+[00:18:58.00]
+
+[00:18:59.11]
+no es ven.
+[00:19:00.14]
+
+[00:19:05.08]
+Mon pare, espera,
+deixa que t'ho expliqui.
+[00:19:07.21]
+
+[00:19:10.08]
+En Toni i jo...
+[00:19:11.10]
+
+[00:19:12.03]
+Les gestions les ha fetes en Pep.
+[00:19:13.21]
+
+[00:19:13.22]
+En Toni vol una casa.
+I ell, les accions de l'empresa.
+[00:19:17.04]
+
+[00:19:17.05]
+Partiu d'aquí tot d'una,
+el dinar s'ha acabat.
+[00:19:20.09]
+
+[00:19:22.13]
+A veure, mon pare...
+[00:19:23.20]
+
+[00:19:24.21]
+Espera un moment.
+Que partiu, dic.
+[00:19:26.16]
+
+[00:19:30.09]
+Sí.
+[00:19:31.09]
+
+[00:19:34.03]
+Només és que...
+Què?
+[00:19:36.00]
+
+[00:19:36.17]
+{\an9}(Portada)
+[00:19:37.23]
+
+[00:19:38.08]
+No, el mòbil, si me'l podries...
+[00:19:40.13]
+
+[00:19:40.23]
+Esper una telefonada.
+[00:19:42.04]
+
+[00:19:45.16]
+No et deixis la porcella.
+[00:19:47.03]
+
+[00:19:47.18]
+{\an9}(Música)
+[00:19:53.03]
+
+[00:19:56.06]
+Mira que ha estat mala sort
+[00:19:57.19]
+
+[00:19:57.20]
+que telefonàs el comprador
+i s'hi posés mon pare.
+[00:20:00.08]
+
+[00:20:00.09]
+Li hauríeu d'haver dit abans.
+[00:20:02.07]
+
+[00:20:03.05]
+Com que és un home tan dialogant
+[00:20:04.22]
+
+[00:20:04.23]
+i que t'ho posa tan fàcil
+per dir-li les coses...
+[00:20:07.08]
+
+[00:20:07.09]
+No és tan difícil, Pep.
+[00:20:08.15]
+
+[00:20:08.24]
+Passa que vosaltres
+davant ell tornau infants,
+[00:20:11.10]
+
+[00:20:11.11]
+com nins d'escola.
+[00:20:12.12]
+
+[00:20:12.16]
+L'hem de convèncer.
+[00:20:13.23]
+
+[00:20:14.05]
+Per que si no
+no sé d'on trauré els doblers
+[00:20:16.12]
+
+[00:20:16.13]
+per comprar les accions.
+Realment en vols ser soci?
+[00:20:19.05]
+
+[00:20:19.13]
+En vaig endarrer d'ençà
+que vaig obrir la franquícia,
+[00:20:22.02]
+
+[00:20:22.03]
+som els reis d'això,
+en vull formar part.
+[00:20:24.06]
+
+[00:20:24.07]
+Però ja en formes part.
+[00:20:25.15]
+
+[00:20:25.18]
+T'has matat per aquesta empresa,
+has fet feina diumenges, festius...
+[00:20:29.02]
+
+[00:20:29.04]
+És la meva empresa,
+és el meu projecte,
+[00:20:31.02]
+
+[00:20:31.03]
+i tenc l'ocasió de ser-ne soci.
+[00:20:32.17]
+
+[00:20:33.02]
+No hi ha més tapers.
+Venga.
+[00:20:34.20]
+
+[00:20:35.05]
+Què fas? No la tiris!
+[00:20:36.12]
+
+[00:20:36.23]
+No voldràs congelar el cap.
+És la part més bona.
+[00:20:39.12]
+
+[00:20:39.17]
+Mossegar l'orella
+i sentir aquell crec-crec.
+[00:20:42.17]
+
+[00:20:42.23]
+Si et sent el teu germà...
+[00:20:44.07]
+
+[00:20:44.09]
+Bé que menjava sobrassada
+i llonganissa,
+[00:20:46.08]
+
+[00:20:46.09]
+no sé què li ha pegat
+amb el veganisme.
+[00:20:48.11]
+
+[00:20:48.12]
+No ens queden més tapers, Pep.
+[00:20:50.00]
+
+[00:20:50.06]
+La posaré dins un plat
+i m'ho menjaré demà dematí.
+[00:20:53.08]
+
+[00:20:53.14]
+Que no vull que la nina s'aixequi
+i trobi un cap de porcella.
+[00:20:56.17]
+
+[00:20:56.19]
+Tampoc no serà cap trauma.
+[00:20:58.16]
+
+[00:20:59.04]
+Saps si vos haguéssiu entès
+amb ton pare, és que...
+[00:21:01.23]
+
+[00:21:02.03]
+T'assegur que va quedar claríssim
+que el dinar el dúiem nosaltres.
+[00:21:06.08]
+
+[00:21:06.14]
+Ja ho veig, claríssim.
+[00:21:07.22]
+
+[00:21:08.00]
+No em negaràs
+que anava un poc despistat.
+[00:21:10.00]
+
+[00:21:13.21]
+Escolta, Pep.
+Què?
+[00:21:15.08]
+
+[00:21:16.13]
+Ara que la nina és a dormir.
+[00:21:17.22]
+
+[00:21:19.04]
+Et va bé que xerrem una estona?
+Sí.
+[00:21:21.08]
+
+[00:21:21.20]
+Cap idea per convèncer mon pare?
+No és res d'això.
+[00:21:24.15]
+
+[00:21:24.16]
+Podries xerrar amb ell.
+[00:21:25.24]
+
+[00:21:26.24]
+Sempre t'ha respectat més a tu.
+Que vull xerrar amb tu et dic.
+[00:21:30.22]
+
+[00:21:30.23]
+Ja xerram, o no?
+Sí.
+[00:21:32.09]
+
+[00:21:33.17]
+{\an9}(Mòbil)
+[00:21:36.01]
+
+[00:21:36.05]
+Perdona, l'he d'agafar.
+Ara?
+[00:21:38.03]
+
+[00:21:38.20]
+És internacional,
+deu ser mitjan dematí per a ells.
+[00:21:41.19]
+
+[00:21:42.22]
+Serà llarga,
+no m'esperis desperta.
+[00:21:44.18]
+
+[00:21:45.19]
+(PARLA EN ANGLÈS)
+[00:21:50.17]
+
+[00:21:54.23]
+{\an9}(Lladrucs)
+[00:21:55.23]
+
+[00:21:55.24]
+I a damunt aquests cans del dimoni.
+[00:21:57.22]
+
+[00:21:58.23]
+Quina merda.
+[00:22:00.00]
+
+[00:22:00.06]
+{\an9}(Lladrucs)
+[00:22:04.23]
+
+[00:22:05.21]
+{\an9}(Música)
+[00:22:11.01]
+
+[00:22:18.04]
+Aquests sensors són una meravella.
+[00:22:20.03]
+
+[00:22:20.13]
+Ja veuràs la davallada
+de la factura elèctrica.
+[00:22:22.23]
+
+[00:22:24.06]
+Com va anar el dinar amb ton pare?
+(BUFA) Un desastre.
+[00:22:27.17]
+
+[00:22:28.22]
+Li vas dir
+que vols vendre la farmàcia?
+[00:22:30.21]
+
+[00:22:31.22]
+Més o manco.
+I no s'ho va prendre bé?
+[00:22:33.19]
+
+[00:22:34.13]
+Em va treure defora.
+Pep.
+[00:22:36.05]
+
+[00:22:36.16]
+Si no t'espolses aquesta por
+acabaràs venent pastilles.
+[00:22:40.00]
+
+[00:22:40.24]
+Per cert,
+[00:22:42.02]
+
+[00:22:42.14]
+l'altre dia
+hi vaig anar a cercar vitamines
+[00:22:44.16]
+
+[00:22:44.17]
+i em va vendre això.
+[00:22:45.19]
+
+[00:22:47.19]
+Pastilles anticonceptives.
+Què dius? A tu?
+[00:22:50.05]
+
+[00:22:50.07]
+Sí, a jo.
+[00:22:51.10]
+
+[00:22:51.17]
+M'haguessin anat bé al seu moment,
+però després de la vasectomia
+[00:22:55.08]
+
+[00:22:55.09]
+feim un poc tard.
+[00:22:56.12]
+
+[00:22:56.13]
+Es degué despistar.
+Això segur.
+[00:22:58.04]
+
+[00:22:59.12]
+I aquestes ungles?
+[00:23:00.15]
+
+[00:23:01.10]
+Això són les nines.
+[00:23:02.14]
+
+[00:23:03.05]
+Et van amagar el líquid
+de fer això net?
+[00:23:05.05]
+
+[00:23:05.06]
+No, han estat més vives.
+[00:23:06.15]
+
+[00:23:06.16]
+Em van dir:
+"Mon pare, te les pintarem
+[00:23:09.05]
+
+[00:23:09.06]
+perquè estiguis més guapo
+a la feina".
+[00:23:11.06]
+
+[00:23:11.07]
+I no vaig saber què contestar.
+[00:23:12.23]
+
+[00:23:12.24]
+Ets el batle, Pascual,
+no pots anar segons com.
+[00:23:15.06]
+
+[00:23:15.08]
+Ja ho sé,
+però avui no tenia res important
+[00:23:17.12]
+
+[00:23:17.13]
+i si es presentà algú,
+mans a les butxaques.
+[00:23:20.05]
+
+[00:23:20.17]
+Mem, vaig a cercar la càmera
+que t'he de muntar a defora,
+[00:23:23.22]
+
+[00:23:23.23]
+d'aquí una estona vendré.
+Perfecte.
+[00:23:26.01]
+
+[00:23:26.22]
+Però abans xerra amb ton pare.
+[00:23:29.02]
+
+[00:23:32.16]
+Sí, d'acord, ara hi aniré.
+[00:23:34.00]
+
+[00:23:34.12]
+Al mal camí passar-lo prest.
+Això mateix, així m'agrada.
+[00:23:37.15]
+
+[00:23:38.17]
+Després torna i xerrarem més,
+que darrerament costa molt.
+[00:23:41.15]
+
+[00:23:41.16]
+T'he de contractar
+perquè em venguis a veure.
+[00:23:44.00]
+
+[00:23:44.07]
+{\an9}(Mòbil)
+[00:23:46.00]
+
+[00:23:46.07]
+Em cag en tot!
+[00:23:47.09]
+
+[00:23:48.01]
+Què passa?
+Fins als nassos em té.
+[00:23:50.03]
+
+[00:23:50.04]
+Qui?
+El cap de la comissió de festes.
+[00:23:53.02]
+
+[00:23:53.03]
+El coneixes?
+Oh!
+[00:23:54.17]
+
+[00:23:55.03]
+És que no puc, em posa a mil.
+[00:23:57.07]
+
+[00:23:57.23]
+A mi m'ho contes?
+Quin martellet.
+[00:23:59.24]
+
+[00:24:00.07]
+Dona més murga
+que tota l'oposició.
+[00:24:02.02]
+
+[00:24:02.07]
+Té poques feines.
+Poques feines?
+[00:24:04.00]
+
+[00:24:04.04]
+El tenc tot el dia al despatx,
+com si no tengués més a fer.
+[00:24:07.04]
+
+[00:24:07.05]
+Tampoc no sembla
+que tenguis gaires feines.
+[00:24:09.12]
+
+[00:24:09.13]
+No m'emprenyis també tu ara.
+[00:24:11.05]
+
+[00:24:11.11]
+{\an9}(Mòbil)
+[00:24:12.11]
+
+[00:24:12.12]
+Ho veus? Diu que ara ve,
+que vol tenir una reunió amb jo.
+[00:24:15.10]
+
+[00:24:15.16]
+És que no puc, no puc.
+[00:24:17.00]
+
+[00:24:17.04]
+Pep, hauràs de fer qualque cosa
+si no vols perdre un bon amic.
+[00:24:20.13]
+
+[00:24:21.03]
+Jo què vols que hi faci?
+Diga-li que no hi som.
+[00:24:23.21]
+
+[00:24:24.06]
+Que no m'has vist.
+[00:24:25.09]
+
+[00:24:25.18]
+Uep, Pasqui.
+[00:24:27.05]
+
+[00:24:27.19]
+Què? Xerram de la revetlla o què?
+[00:24:29.16]
+
+[00:24:30.12]
+Estava fent d'escultura humana.
+[00:24:32.07]
+
+[00:24:33.07]
+Ah sí? I aquestes ungles?
+[00:24:34.20]
+
+[00:24:35.04]
+{\an9}(Música)
+[00:24:40.12]
+
+[00:24:53.09]
+Hola?
+[00:24:54.10]
+
+[00:24:58.19]
+Pare!
+[00:24:59.20]
+
+[00:25:00.02]
+{\an9}(Música)
+[00:25:03.07]
+
+[00:25:03.16]
+Pare!
+[00:25:04.16]
+
+[00:25:07.20]
+Homenet...
+[00:25:08.22]
+
+[00:25:28.11]
+{\an8}(Sona el mòbil)
+[00:25:29.14]
+
+[00:25:32.03]
+Domo Leben, digau?
+[00:25:33.05]
+
+[00:25:35.06]
+Sí, sí, jo mateix.
+[00:25:36.07]
+
+[00:25:38.00]
+Quin, quin ítem?
+[00:25:39.02]
+
+[00:25:40.05]
+Els Canis Eleven. Sí.
+[00:25:42.00]
+
+[00:25:42.24]
+Sí, el preu inclou la instal·lació,
+que la faig jo mateix
+[00:25:45.23]
+
+[00:25:45.24]
+i totes les garanties, sí.
+[00:25:47.14]
+
+[00:25:49.14]
+Hauria de ser la setmana que ve.
+Va bé? Sí.
+[00:25:53.08]
+
+[00:25:54.09]
+Espera, agafaré per escriure,
+un moment.
+[00:25:56.17]
+
+[00:25:57.13]
+Sí. Carrer Sol 29.
+[00:25:58.20]
+
+[00:26:02.22]
+Eh... Això damunt dijous va bé?
+Dijous...
+[00:26:05.06]
+
+[00:26:05.21]
+Damunt les 12.
+[00:26:06.23]
+
+[00:26:07.12]
+Perfecte.
+[00:26:08.13]
+
+[00:26:10.07]
+D'acord idò.
+[00:26:11.08]
+
+[00:26:12.19]
+Sí, fins dijous. D'acord, adeu.
+[00:26:14.16]
+
+[00:26:28.10]
+Deteriorament cognitiu lleu.
+[00:26:30.02]
+
+[00:26:31.20]
+Què vol dir això?
+[00:26:32.20]
+
+[00:26:34.14]
+El pas previ a l'Alzheimer.
+[00:26:36.05]
+
+[00:26:36.22]
+Alzheimer mon pare?
+[00:26:38.01]
+
+[00:26:39.17]
+Això sembla.
+[00:26:40.18]
+
+[00:26:43.03]
+De quan és aquesta analítica?
+[00:26:44.14]
+
+[00:26:45.09]
+Sabies que havia anat
+al metge amb ma mare?
+[00:26:47.09]
+
+[00:26:50.08]
+Com saps que hi va anar amb ella?
+[00:26:52.03]
+
+[00:26:52.04]
+Perquè he telefonat a la doctora
+i m'ho ha confirmat.
+[00:26:54.22]
+
+[00:26:56.10]
+Qui és aquesta doctora?
+[00:26:57.20]
+
+[00:26:58.11]
+Aquesta doctora és una neuròloga
+especialitzada en Alzheimer.
+[00:27:01.18]
+
+[00:27:02.12]
+No té Alzheimer!
+[00:27:03.14]
+
+[00:27:05.01]
+Torna vell,
+fa cadufs com tots els vells.
+[00:27:07.10]
+
+[00:27:07.11]
+Quins cadufs ha fet?
+Jo què sé...
+[00:27:09.12]
+
+[00:27:11.04]
+De vegades li fuig el conill.
+[00:27:12.17]
+
+[00:27:13.02]
+No veus que ni se'n recordava
+[00:27:14.12]
+
+[00:27:14.13]
+que en Klaus era la teva parella?
+Això ho fa per emprenyar-me.
+[00:27:17.22]
+
+[00:27:17.23]
+No té res, Pep, se fa vell.
+[00:27:20.11]
+
+[00:27:21.00]
+No, no diguis que és vell.
+És que ho és,
+[00:27:23.03]
+
+[00:27:23.04]
+està a punt de jubilar-se.
+Toni, té 64 anys,
+[00:27:25.15]
+
+[00:27:25.16]
+avui en dia això no és ser vell.
+[00:27:27.12]
+
+[00:27:28.02]
+I si tu veies
+que feies coses estranyes
+[00:27:30.02]
+
+[00:27:30.03]
+per què no me deies res?
+[00:27:31.12]
+
+[00:27:31.13]
+A tu? Si sempre fas feina,
+què t'he d'anar a dir.
+[00:27:34.07]
+
+[00:27:34.08]
+Resultarà que jo sempre faig feina.
+[00:27:36.05]
+
+[00:27:36.06]
+{\an8}(Sona el mòbil)
+[00:27:37.09]
+
+[00:27:38.07]
+Perdona, l'he d'agafar.
+Ho veus.
+[00:27:40.06]
+
+[00:27:41.08]
+Domo Leben, digau.
+[00:27:42.10]
+
+[00:27:44.00]
+Si, demà.
+[00:27:45.01]
+
+[00:27:46.06]
+A les quatre,
+jo a les quatre seré aquí.
+[00:27:48.15]
+
+[00:27:48.16]
+Sí, no passeu pena.
+[00:27:50.02]
+
+[00:27:51.12]
+Venga, d'acord.
+[00:27:52.15]
+
+[00:27:52.24]
+Fins demà, adeu.
+[00:27:54.00]
+
+[00:27:56.21]
+Amem, Pep, ara que te veig.
+[00:27:58.11]
+
+[00:27:59.15]
+Ah, però si sou
+els dos germans junts.
+[00:28:01.12]
+
+[00:28:02.14]
+És que no vos assemblau gens.
+Com va, Dolors, què hi ha de nou?
+[00:28:06.02]
+
+[00:28:07.06]
+Ahir ton pare me va receptar
+unes pastilla pel mal de panxa
+[00:28:10.07]
+
+[00:28:10.08]
+que no m'han anat gens bé.
+Ja me sap greu, de vegades passa.
+[00:28:13.24]
+
+[00:28:14.00]
+Sí, però espera,
+que no ha acabat la història.
+[00:28:16.13]
+
+[00:28:17.13]
+Com que me van caure tan malament,
+vaig llegir el prospecte,
+[00:28:20.16]
+
+[00:28:20.17]
+i no són pel mal de panxa.
+[00:28:22.03]
+
+[00:28:22.12]
+No, són pel vertigen.
+[00:28:23.20]
+
+[00:28:25.00]
+Què li passa a ton pare,
+[00:28:26.10]
+
+[00:28:26.11]
+perquè no m'havia passat mai
+això amb ell.
+[00:28:28.19]
+
+[00:28:28.20]
+Amem, Dolors, no li passa res,
+[00:28:30.16]
+
+[00:28:30.17]
+vos deguéreu malentendre.
+Idò li vaig dir ben clar,
+[00:28:33.16]
+
+[00:28:33.17]
+pastilles pel mal de panxa.
+Bé, torna-les-hi,
+[00:28:35.24]
+
+[00:28:36.00]
+no vos posarà cap problema.
+Això faré, només faltaria.
+[00:28:38.13]
+
+[00:28:38.14]
+Perquè jo, no és culpa meva això,
+jo li vaig dir molt claret,
+[00:28:41.15]
+
+[00:28:41.16]
+"pastilles pel mal de panxa".
+D'acord, d'acord.
+[00:28:44.09]
+
+[00:28:44.10]
+Molt bé.
+Venga, adeu.
+[00:28:46.00]
+
+[00:28:46.01]
+Adeu.
+[00:28:47.01]
+
+[00:28:50.13]
+Ho veus?
+[00:28:51.13]
+
+[00:28:52.14]
+Un descuit el té qualsevol.
+[00:28:53.21]
+
+[00:28:55.09]
+O tu no t'equivoques mai?
+Jo no.
+[00:28:57.07]
+
+[00:28:57.15]
+Ah, no? I la porcella d'ahir?
+[00:28:59.08]
+
+[00:28:59.12]
+Va ser ell, havia quedat claríssim
+que el dinar el dúiem noltros.
+[00:29:02.19]
+
+[00:29:02.24]
+Sí, sí. O t'ho vares imaginar.
+[00:29:04.19]
+
+[00:29:05.08]
+Agafa'l, que jo me'n vaig.
+[00:29:06.14]
+
+[00:29:06.17]
+Espera, és na Joana Maria,
+ja la cridaré després.
+[00:29:09.00]
+
+[00:29:09.10]
+Pep, mira jo ja no sé
+com t'ho he dir.
+[00:29:11.16]
+
+[00:29:11.17]
+Però jo necessit xerrar amb tu,
+[00:29:13.13]
+
+[00:29:13.14]
+és molt urgent,
+necessit xerrar amb tu,
+[00:29:15.18]
+
+[00:29:15.19]
+ahir ja no va poder ser
+però d'avui no passa.
+[00:29:17.23]
+
+[00:29:17.24]
+He enviat na Laura a dormir
+a ca na Laia
+[00:29:19.22]
+
+[00:29:19.23]
+i així xerrarem tranquils.
+[00:29:21.11]
+
+[00:29:21.12]
+I me vols dir per què
+quan te crida un client
+[00:29:23.18]
+
+[00:29:23.19]
+l'agafes tot d'una
+[00:29:24.22]
+
+[00:29:24.23]
+i quan soc jo
+me bota el contestador?
+[00:29:26.20]
+
+[00:29:26.21]
+És que de veres.
+[00:29:27.22]
+
+[00:29:33.14]
+Me cag en la màquina aquesta,
+que no puc, és que no puc amb ella.
+[00:29:37.08]
+
+[00:29:38.01]
+A la merda això!
+[00:29:39.04]
+
+[00:29:40.10]
+A prendre pel sac ja.
+[00:29:41.13]
+
+[00:29:43.19]
+Si tot fos tan greu com ho pintes,
+mon pare hauria dit qualque cosa.
+[00:29:47.01]
+
+[00:29:47.02]
+Sí, perquè és la persona
+més comunicativa del món
+[00:29:49.15]
+
+[00:29:49.16]
+i se mor de ganes
+[00:29:50.16]
+
+[00:29:50.17]
+d'admetre davant noltros
+que està malalt.
+[00:29:52.17]
+
+[00:29:52.18]
+Som els seus fills. 
+Per això mateix, Toni.
+[00:29:54.18]
+
+[00:29:54.19]
+Mon pare no pot estar
+[00:29:55.23]
+
+[00:29:55.24]
+ni un minut més tot sol
+a la farmàcia.
+[00:29:57.20]
+
+[00:29:57.21]
+No està malalt.
+Santa Llúcia fes qualque cosa
+[00:30:00.04]
+
+[00:30:00.05]
+perquè el meu germà
+pugui entendre aquest informe.
+[00:30:02.21]
+
+[00:30:02.22]
+Aquest informe diu
+deteriorament cognitiu lleu, lleu.
+[00:30:05.11]
+
+[00:30:05.12]
+Ho té tothom.
+[00:30:06.12]
+
+[00:30:06.13]
+Jo l'altre dia no me'n recordava
+d'on tenia les claus del cotxe,
+[00:30:09.18]
+
+[00:30:09.19]
+sempre perd el telèfon
+i l'he de canviar i les claus...
+[00:30:12.14]
+
+[00:30:12.15]
+Mira Toni, no vull discutir més,
+el que està claríssim
+[00:30:15.10]
+
+[00:30:15.11]
+és que hem de traspassar
+la farmàcia quan abans, millor.
+[00:30:18.03]
+
+[00:30:18.04]
+En això estam d'acord, o no?
+En això sí.
+[00:30:20.06]
+
+[00:30:20.07]
+Idò aclarim això
+i després ja parlarem de la resta.
+[00:30:23.04]
+
+[00:30:23.19]
+{\an8}(Música)
+[00:30:25.13]
+
+[00:30:28.18]
+-Bon dia, va bé?
+-Hola.
+[00:30:30.02]
+
+[00:30:31.03]
+La volen vendre, Xisca.
+[00:30:32.06]
+
+[00:30:33.07]
+Ja ho vares sentir.
+[00:30:34.11]
+
+[00:30:36.02]
+Tenir fills per això.
+Ai, no t'ho prenguis malament.
+[00:30:39.02]
+
+[00:30:39.22]
+Que no m'ho prengui malament?
+[00:30:41.17]
+
+[00:30:43.03]
+Són uns desagraïts.
+Són humans, com tu.
+[00:30:46.09]
+
+[00:30:48.16]
+No tenen respecte per res,
+m'entens?
+[00:30:50.18]
+
+[00:30:53.03]
+Sort que tenc de tenir-te a tu,
+sinó no sé què faria.
+[00:30:56.04]
+
+[00:30:56.21]
+Continuaries igual.
+No, igual no.
+[00:30:59.12]
+
+[00:30:59.18]
+Igual no.
+[00:31:00.21]
+
+[00:31:01.06]
+Si no pogués xerrar amb tu
+i contar-te les coses que passen
+[00:31:04.14]
+
+[00:31:04.15]
+i veure't riure,
+la vida no tendria sentit.
+[00:31:07.21]
+
+[00:31:08.13]
+Ai... Venga, no diguis això, Josep.
+[00:31:10.16]
+
+[00:31:11.12]
+Els al·lots te necessiten.
+[00:31:13.01]
+
+[00:31:13.02]
+No me parlis dels nostres al·lots.
+[00:31:15.23]
+
+[00:31:18.03]
+Me toquen els orgues.
+És que t'hi capfiques massa, Josep.
+[00:31:21.11]
+
+[00:31:23.07]
+Ai... No pots entendre que no tothom
+sempre ha de pensar com tu.
+[00:31:27.16]
+
+[00:31:28.19]
+Mira quantes vegades tu mateix
+t'has queixat de la farmàcia.
+[00:31:31.18]
+
+[00:31:31.19]
+Queixar-me jo? De què?
+Sí.
+[00:31:33.09]
+
+[00:31:33.22]
+Quan has tengut guàrdia,
+[00:31:35.12]
+
+[00:31:35.13]
+quan no ha vengut el proveïdor
+el dia que havia dit,
+[00:31:38.06]
+
+[00:31:38.07]
+quan entra un client
+i se posa pesat...
+[00:31:40.13]
+
+[00:31:40.14]
+Ja sé que de vagades remug,
+[00:31:42.05]
+
+[00:31:42.06]
+però són coses
+que se diuen sense voler.
+[00:31:44.11]
+
+[00:31:45.21]
+Se donen a entendre coses
+[00:31:47.08]
+
+[00:31:47.09]
+que no s'haurien de donar
+a entendre,
+[00:31:49.08]
+
+[00:31:49.09]
+però ell ho hauria d'entendre,
+[00:31:51.02]
+
+[00:31:51.03]
+que és el que significa
+la farmàcia per mi,
+[00:31:53.13]
+
+[00:31:53.14]
+la farmàcia és la meva vida. 
+Ja ho sé, amor meu, ja ho sé.
+[00:31:56.20]
+
+[00:32:02.07]
+Això és molt més que un lloc
+on se venen medicaments.
+[00:32:05.08]
+
+[00:32:05.21]
+Aquestes parets representen
+la història de la meva família.
+[00:32:10.08]
+
+[00:32:11.21]
+Des del padrí,
+en Josep de les pintures
+[00:32:14.00]
+
+[00:32:14.01]
+fins a mon pare,
+[00:32:15.02]
+
+[00:32:15.03]
+que va conèixer ma mare un dia
+que va venir a cercar
+[00:32:17.13]
+
+[00:32:17.14]
+un remei pel constipat.
+[00:32:18.20]
+
+[00:32:19.04]
+O jo mateix, que plogués no nevàs
+[00:32:21.21]
+
+[00:32:21.22]
+he vengut cada dia aquí
+durant 40 anys.
+[00:32:24.07]
+
+[00:32:27.21]
+Tan difícil és d'entendre això?
+[00:32:29.18]
+
+[00:32:30.19]
+Tan difícil és de veure?
+[00:32:32.05]
+
+[00:32:34.03]
+No veuen que jo m'estimaria més
+no ser-hi
+[00:32:36.15]
+
+[00:32:36.16]
+que veure aquesta farmàcia
+en mans d'un extern.
+[00:32:39.20]
+
+[00:32:41.17]
+És tan difícil d'entendre això?
+No, Josep,
+[00:32:44.04]
+
+[00:32:44.05]
+però has d'entendre
+que tot això és la teva vida,
+[00:32:47.04]
+
+[00:32:48.23]
+però no la seva.
+[00:32:50.00]
+
+[00:33:01.24]
+Falta molt de temps perquè arribi?
+Deu estar a punt,
+[00:33:05.13]
+
+[00:33:05.14]
+en teoria ja ha tancat.
+[00:33:07.00]
+
+[00:33:07.17]
+Vols estar quiet?
+Estic nerviós.
+[00:33:09.12]
+
+[00:33:09.13]
+Idò no m'hi posis a mi.
+[00:33:11.00]
+
+[00:33:11.15]
+Si no haguessis badat
+i l'hi haguessis dit quan toca
+[00:33:14.01]
+
+[00:33:14.02]
+ara no estaríem així.
+S'ho hauria pres igual de malament.
+[00:33:16.20]
+
+[00:33:16.21]
+No estaria tan emprenyat.
+Què m'has de dir tu a mi
+[00:33:19.04]
+
+[00:33:19.05]
+si no has tengut coratge mai
+[00:33:20.17]
+
+[00:33:20.18]
+ni de presentar-li 
+les teves parelles.
+[00:33:22.15]
+
+[00:33:22.16]
+Perquè és un homòfob.
+No és vera.
+[00:33:24.11]
+
+[00:33:24.12]
+Potser no,
+però s'hauria estimat més
+[00:33:26.11]
+
+[00:33:26.12]
+que jo fos heterosexual.
+[00:33:27.19]
+
+[00:33:27.20]
+Tampoc no li ha agradat mai
+que me dedicàs a la domòtica.
+[00:33:30.21]
+
+[00:33:32.20]
+Ve o què?
+[00:33:33.23]
+
+[00:33:36.08]
+Abans he passat per la farmàcia.
+[00:33:38.03]
+
+[00:33:39.04]
+A fer què?
+Volia mirar de xerrar amb ell,
+[00:33:41.09]
+
+[00:33:41.24]
+però no he pogut.
+[00:33:43.02]
+
+[00:33:44.03]
+(IMITA UNA GALLINA)
+Vols no fer dois.
+[00:33:46.17]
+
+[00:33:49.01]
+He sentit que xerrava
+[00:33:50.08]
+
+[00:33:50.21]
+de què significa
+la farmàcia per ell.
+[00:33:52.21]
+
+[00:33:52.22]
+Ja sabem que és important per ell,
+però no hem...
+[00:33:55.14]
+
+[00:33:55.15]
+No, Toni, important no,
+és molt més que això.
+[00:33:57.23]
+
+[00:33:57.24]
+És la seva vida. 
+Pep, tu ho has dit.
+[00:34:00.03]
+
+[00:34:00.15]
+És la seva vida, no la nostra.
+Ja ho sé.
+[00:34:03.16]
+
+[00:34:05.01]
+Eh.
+[00:34:06.02]
+
+[00:34:08.16]
+Si són els meus fills estimats.
+[00:34:10.10]
+
+[00:34:13.00]
+Què fan aquests
+nobles mercaders venecians?
+[00:34:15.00]
+
+[00:34:16.10]
+Conspiren per vendre ca meva
+[00:34:18.02]
+
+[00:34:18.03]
+o tal vegada és un
+dels meus ronyons
+[00:34:20.04]
+
+[00:34:20.05]
+el motiu de la discòrdia?
+Serviu-vos, disposau, tot vostre.
+[00:34:25.10]
+
+[00:34:25.11]
+Bravo, mon pare.
+[00:34:26.14]
+
+[00:34:26.22]
+Pensava que el dramàtic
+de la família era jo.
+[00:34:29.06]
+
+[00:34:29.07]
+Amem, hem vengut
+perquè volem xerrar amb tu.
+[00:34:31.20]
+
+[00:34:31.21]
+Idò heu vengut de bades.
+[00:34:33.08]
+
+[00:34:33.17]
+Mon pare, ahir quan te vaig dir
+això de les noces me referia...
+[00:34:36.22]
+
+[00:34:36.23]
+Quines noces?
+D'en Toni.
+[00:34:39.08]
+
+[00:34:41.20]
+Te cases?
+Ja era hora que posassis seny.
+[00:34:44.11]
+
+[00:34:44.12]
+I qui és la núvia?
+[00:34:46.07]
+
+[00:34:47.16]
+Molt graciós, mon pare.
+[00:34:49.03]
+
+[00:34:50.04]
+Què s'ha fet d'aquell alemany
+amic teu?
+[00:34:52.13]
+
+[00:34:54.18]
+En Klaus, amem...
+No, deixa-ho anar, deixa-ho anar.
+[00:34:57.12]
+
+[00:34:57.13]
+T'he de dir una cosa.
+[00:34:58.13]
+
+[00:35:00.12]
+Mon pare, jo te volia dir que...
+[00:35:03.13]
+
+[00:35:04.24]
+Que li has dit què?
+[00:35:06.04]
+
+[00:35:07.03]
+Que demà començaré a la farmàcia.
+Però què m'he perdut?
+[00:35:10.09]
+
+[00:35:10.10]
+Com ha arribat a passar això? 
+Jo què sé, Pasqual, jo què sé.
+[00:35:13.07]
+
+[00:35:13.08]
+Com vols que ho sàpiga?
+Idò si no ho saps tu.
+[00:35:15.24]
+
+[00:35:16.11]
+Jo soc com el filòsof aquell,
+que només sé que no sé res.
+[00:35:19.15]
+
+[00:35:19.16]
+Però si no tens el títol.
+Ja me'l trauré.
+[00:35:22.02]
+
+[00:35:22.03]
+Però i la teva empresa?
+Duré les dues coses.
+[00:35:24.23]
+
+[00:35:25.00]
+I si la domòtica 
+te duu una feinada?
+[00:35:27.03]
+
+[00:35:27.11]
+Trobaré la manera de compaginar-ho.
+[00:35:29.15]
+
+[00:35:29.16]
+No podràs,
+no penses amb el cap i ho saps.
+[00:35:31.23]
+
+[00:35:32.09]
+Moltes gràcies per les paraules
+tan encoratjadores,
+[00:35:34.24]
+
+[00:35:35.00]
+és un gust tenir amics com tu. 
+Faig el que fan els bons amics,
+[00:35:38.18]
+
+[00:35:38.19]
+que és avisar-te
+quan fas un desbarat.
+[00:35:40.21]
+
+[00:35:40.22]
+Creu-me,
+no hi havia cap altra solució.
+[00:35:42.23]
+
+[00:35:42.24]
+No ho entenc, per què?
+[00:35:44.07]
+
+[00:35:44.14]
+Perquè tanmateix
+no vendrà la farmàcia.
+[00:35:46.17]
+
+[00:35:46.18]
+Abans se morirà.
+[00:35:47.18]
+
+[00:35:47.24]
+Però si li queda un any
+per jubilar-se,
+[00:35:50.05]
+
+[00:35:50.06]
+deixa que passi enguany,
+que la tanqui i ja està,
+[00:35:52.21]
+
+[00:35:52.22]
+no tens per què acceptar,
+que la tanqui.
+[00:35:54.23]
+
+[00:35:54.24]
+Mon pare està malalt,
+no pot continuar
+[00:35:57.02]
+
+[00:35:57.03]
+al capdavant de la farmàcia
+o tendrem un disgust gros,
+[00:35:59.21]
+
+[00:35:59.22]
+i ja està, la resta de focs
+els apagaré així com se presentin.
+[00:36:03.01]
+
+[00:36:03.02]
+Qualque altra solució hi ha d'haver.
+Això ja està.
+[00:36:05.16]
+
+[00:36:05.17]
+Enviaré la factura per email.
+M'has deixat mort.
+[00:36:08.06]
+
+[00:36:11.02]
+Bé, sort.
+[00:36:12.04]
+
+[00:36:13.07]
+Na Joana Maria ho sap?
+Ah, això. T'he de dir una cosa.
+[00:36:15.24]
+
+[00:36:16.00]
+Què?
+[00:36:17.00]
+
+[00:36:17.07]
+Na Joana Maria vol xerrar amb jo,
+tu saps gens què vol?
+[00:36:20.12]
+
+[00:36:20.23]
+No.
+No ho saps, no ho saps?
+[00:36:23.10]
+
+[00:36:23.11]
+O ho saps però no m'ho pots dir?
+No ho sé, no ho sé,
+[00:36:26.05]
+
+[00:36:26.06]
+i si m'ho hagués dit 
+tampoc t'ho podria dir,
+[00:36:28.12]
+
+[00:36:28.13]
+com te pots imaginar.
+Però ets el meu amic.
+[00:36:30.19]
+
+[00:36:30.20]
+I d'ella també.
+Però jo te vaig conèixer primer.
+[00:36:33.06]
+
+[00:36:33.07]
+No m'emprenyis, Pep,
+[00:36:34.11]
+
+[00:36:34.12]
+que eres tu que volies
+que mos féssim amics.
+[00:36:36.16]
+
+[00:36:36.17]
+Bé, però no importa tant.
+No te posis infantil.
+[00:36:39.06]
+
+[00:36:39.07]
+Conta'm, què vol? Què és?
+[00:36:40.22]
+
+[00:36:43.11]
+Darrerament està nerviosa, 
+estranya, s'enfada per tot.
+[00:36:48.00]
+
+[00:36:49.09]
+Això és el que li passava
+a la meva dona
+[00:36:51.05]
+
+[00:36:51.08]
+quan estava embarassada.
+[00:36:52.11]
+
+[00:36:55.02]
+No sé què vols dir amb això,
+però no m'agrada gens.
+[00:36:57.16]
+
+[00:36:57.17]
+No vull dir que ella estigui...
+Bé, tampoc no...
+[00:37:01.03]
+
+[00:37:02.11]
+No és impossible, o no? 
+Biològicament, vull dir.
+[00:37:05.07]
+
+[00:37:06.09]
+Si la Mare de Déu hi va quedar...
+És clar que no és impossible.
+[00:37:10.00]
+
+[00:37:12.06]
+Darrerament tampoc és que tenguem
+molta activitat.
+[00:37:15.04]
+
+[00:37:16.18]
+Darrerament vull dir
+els darrers... Dos anys.
+[00:37:19.16]
+
+[00:37:21.00]
+Bé, però això és igual,
+[00:37:22.10]
+
+[00:37:22.24]
+basta que en pegueu un de ben pegat
+i "plaf",
+[00:37:25.08]
+
+[00:37:25.09]
+t'ho dic jo
+que soc especialista en fer diana.
+[00:37:27.19]
+
+[00:37:27.20]
+No me fotis, Pasqual.
+[00:37:29.01]
+
+[00:37:29.15]
+La veritat és que la darrera vegada
+que la vaig veure
+[00:37:32.02]
+
+[00:37:32.03]
+la vaig veure radiant,
+li brillaven els ulls.
+[00:37:34.19]
+
+[00:37:37.03]
+Se devia haver posar col·liri.
+[00:37:38.20]
+
+[00:37:39.09]
+No la veus més guapa darrerament?
+[00:37:41.08]
+
+[00:37:43.24]
+Jo la veig...
+No sé, com sempre, jo què sé.
+[00:37:46.15]
+
+[00:37:47.14]
+Veus? Ni t'hi has fixat.
+[00:37:49.00]
+
+[00:37:51.21]
+Merda, ahir va vomitar.
+¡Equilicuá! No vull dir res, però.
+[00:37:55.14]
+
+[00:37:55.15]
+No vols dir però ja ho has dit.
+Amb tot això que m'has contat
+[00:37:58.16]
+
+[00:37:58.17]
+són faves comptades.
+Merda.
+[00:38:01.04]
+
+[00:38:03.03]
+No, Pepet, ara no, Pepet, ara no.
+[00:38:05.03]
+
+[00:38:08.07]
+No, encara no li he pogut dir.
+[00:38:10.01]
+
+[00:38:11.16]
+No ho sé,
+és que no ha arribat encara,
+[00:38:13.13]
+
+[00:38:13.14]
+l'estic esperant.
+[00:38:14.15]
+
+[00:38:16.05]
+Ja, jo també fris de veure't,
+però és que vull fer això bé.
+[00:38:19.16]
+
+[00:38:20.24]
+Ja, jo també.
+[00:38:22.04]
+
+[00:38:23.04]
+Adeu.
+[00:38:24.05]
+
+[00:38:31.02]
+Ei.
+Hola.
+[00:38:32.08]
+
+[00:38:36.06]
+Què passa?
+No res, te mirava.
+[00:38:38.12]
+
+[00:38:40.22]
+Estàs divina.
+Ah.
+[00:38:41.24]
+
+[00:38:42.16]
+Com estàs?
+Bé, molt bé.
+[00:38:44.04]
+
+[00:38:45.08]
+Fa una estona que t'esper.
+[00:38:46.14]
+
+[00:38:46.22]
+M'he retardat
+amb una instal·lació.
+[00:38:49.02]
+
+[00:38:50.01]
+Podem xerrar ara?
+Ja sé què me vols dir.
+[00:38:52.14]
+
+[00:38:54.02]
+Què?
+[00:38:55.03]
+
+[00:38:55.04]
+Sí, no sé
+com no me'n havia temut abans.
+[00:38:57.09]
+
+[00:38:57.10]
+Però amem...
+[00:38:58.12]
+
+[00:38:58.21]
+Al principi m'ho he agafat
+molt malament...
+[00:39:01.05]
+
+[00:39:01.06]
+Sí, però.
+No, deixam acabar.
+[00:39:02.20]
+
+[00:39:02.21]
+M'ho he agafat perquè
+no entrava dins els meus plans.
+[00:39:05.17]
+
+[00:39:05.18]
+Dins els meus tampoc,
+t'ho puc ben assegurar.
+[00:39:08.04]
+
+[00:39:08.05]
+Però després
+m'he anat fent a la idea
+[00:39:10.04]
+
+[00:39:11.00]
+i la veritat és
+que mos anirà bé un canvi.
+[00:39:13.12]
+
+[00:39:15.14]
+Clar, sí, sí...
+Que per mi, en davant.
+[00:39:19.03]
+
+[00:39:24.01]
+És que me sorprèn molt 
+que t'ho prenguis tan bé.
+[00:39:26.18]
+
+[00:39:27.04]
+No és el millor moment,
+tampoc seria mai el millor moment,
+[00:39:30.11]
+
+[00:39:30.16]
+però justament ara
+amb això de la farmàcia.
+[00:39:32.18]
+
+[00:39:33.04]
+Ah. Has pogut convèncer ton pare?
+[00:39:35.05]
+
+[00:39:37.24]
+No exactament,
+m'ha convençut ell a mi.
+[00:39:40.06]
+
+[00:39:41.00]
+Què?
+[00:39:42.00]
+
+[00:39:45.11]
+Però no te preocupis,
+tu tranquil·la, duré les dues coses
+[00:39:48.12]
+
+[00:39:48.13]
+i la criatura
+no li faltarà de res.
+[00:39:50.09]
+
+[00:39:50.10]
+Amem, li has dit a ton pare
+que te faràs càrrec de la farmàcia?
+[00:39:53.08]
+
+[00:39:53.09]
+Tu estàs sonat.
+[00:39:54.09]
+
+[00:39:54.24]
+De quina criatura xerres?
+De la nostra.
+[00:39:57.10]
+
+[00:39:59.15]
+La nostra quina?
+L'embaràs, Joana Maria, l'embaràs.
+[00:40:02.14]
+
+[00:40:02.15]
+Quin embaràs?
+El teu.
+[00:40:03.21]
+
+[00:40:04.23]
+Però què dius? Tu te'n vas del cap.
+[00:40:06.20]
+
+[00:40:09.13]
+Però d'on has tret això?
+Tu estàs sonat.
+[00:40:11.20]
+
+[00:40:12.16]
+No estàs embarassada?
+No, d'on has tret això?
+[00:40:15.07]
+
+[00:40:16.13]
+En Pasqual diu...
+I en Pasqual què en sap?
+[00:40:18.11]
+
+[00:40:18.19]
+No ho sé, però si no és això,
+què me volies dir?
+[00:40:21.01]
+
+[00:40:22.11]
+Ai, Pep...
+[00:40:23.12]
+
+[00:40:24.12]
+Seu, Pep, va, seu.
+No tenc ganes de seure.
+[00:40:26.17]
+
+[00:40:26.18]
+Què punyetes me vols dir?
+Que me'n vaig.
+[00:40:28.24]
+
+[00:40:29.00]
+A on?
+Que me'n vaig, que te deix.
+[00:40:32.17]
+
+[00:40:39.15]
+Me deixes?
+[00:40:40.15]
+
+[00:40:41.19]
+Per què?
+[00:40:42.20]
+
+[00:40:44.20]
+Perquè...
+[00:40:45.22]
+
+[00:40:46.17]
+Perquè la vida són cicles
+i trob que el nostre s'ha acabat.
+[00:40:50.03]
+
+[00:40:51.08]
+I... I perquè m'he enamorat.
+[00:40:53.02]
+
+[00:40:56.17]
+I el brownie?
+Què pinta ara el brownie aquí?
+[00:40:59.24]
+
+[00:41:01.21]
+Vares vomitar.
+[00:41:02.22]
+
+[00:41:03.02]
+Perquè ton pare li va posar sal
+enlloc de sucre.
+[00:41:05.18]
+
+[00:41:05.20]
+Sal?
+[00:41:06.20]
+
+[00:41:07.02]
+Amem, tu te pensaves
+que estava embarassada
+[00:41:09.07]
+
+[00:41:09.08]
+perquè havia vomitat el brownie?
+[00:41:11.03]
+
+[00:41:11.11]
+I perquè darrerament
+estàs estranya.
+[00:41:13.05]
+
+[00:41:13.06]
+Clar que estic estranya,
+tot això no és fàcil per jo tampoc.
+[00:41:16.05]
+
+[00:41:16.06]
+No és fàcil enamorar-te d'un altre,
+ja ho veig.
+[00:41:18.23]
+
+[00:41:18.24]
+No ho és, t'ho puc assegurar.
+Me deixes més tranquil.
+[00:41:21.15]
+
+[00:41:22.04]
+Mira, Pep, m'ha costat molt
+prendre aquesta decisió,
+[00:41:24.21]
+
+[00:41:24.22]
+però ara necessit fer això.
+[00:41:26.12]
+
+[00:41:28.11]
+Qui és ell? 
+Això és igual.
+[00:41:30.01]
+
+[00:41:30.10]
+El conec?
+Que és igual, és irrellevant això.
+[00:41:32.23]
+
+[00:41:32.24]
+Irrellevant.
+No, una mica rellevant sí que és.
+[00:41:35.16]
+
+[00:41:35.17]
+Per favor, Pep, no t'alçuris.
+Na Laura ho sap?
+[00:41:38.09]
+
+[00:41:38.10]
+No l'he enviat a dormir
+a ca una amiga
+[00:41:40.14]
+
+[00:41:40.15]
+i així podíem xerrar més tranquils,
+li deim demà.
+[00:41:43.10]
+
+[00:41:58.07]
+Què fas, te'n vas?
+[00:41:59.11]
+
+[00:42:00.00]
+T'ho estic dient
+des de fa deu minuts, Pep.
+[00:42:02.11]
+
+[00:42:02.14]
+Me'n vaig a ca ma mare, de moment.
+I na Laura?
+[00:42:05.18]
+
+[00:42:06.22]
+I na Laura què?
+Te la dus a ca ta mare?
+[00:42:09.07]
+
+[00:42:09.08]
+No, na Laura quedarà aquí.
+[00:42:11.06]
+
+[00:42:12.04]
+Na Laura mos l'haurem de repartir,
+però això no me preocupa,
+[00:42:15.14]
+
+[00:42:15.15]
+som adults, ho farem bé.
+[00:42:17.19]
+
+[00:42:21.04]
+Me sap greu, Pep.
+[00:42:22.05]
+
+[00:42:24.14]
+Me sap molt de greu.
+[00:42:25.22]
+
+[00:42:27.22]
+Adeu.
+[00:42:28.24]
+
+[00:43:39.02]
+Finalment pareix que en Pepet
+[00:43:40.23]
+
+[00:43:42.00]
+se quedarà la farmàcia,
+com ha de ser.
+[00:43:44.05]
+
+[00:43:45.21]
+Li hauré d'estar molt a damunt,
+[00:43:47.20]
+
+[00:43:49.13]
+perquè s'ha passat 
+els darrers 20 anys
+[00:43:51.19]
+
+[00:43:52.18]
+instal·lant mecanismes.
+[00:43:54.04]
+
+[00:43:55.22]
+Però bé...
+[00:43:57.00]
+
+[00:43:58.24]
+Les coses s'han posat a lloc
+[00:44:00.15]
+
+[00:44:01.14]
+i tu tenies raó,
+com sempre, estimada.
+[00:44:03.18]
+
+[00:44:15.22]
+Xisqueta.
+[00:44:16.23]
+
+[00:44:21.11]
+No m'agrada gaire venir aquí,
+ja ho saps.
+[00:44:23.21]
+
+[00:44:28.17]
+M'estim més conversar amb tu
+a ca nostra.
+[00:44:32.04]
+
+[00:44:37.02]
+Però te vaig prometre 
+que te duria els lilàs
+[00:44:41.10]
+
+[00:44:42.05]
+sempre, tota la vida
+mentre jo fos viu.
+[00:44:44.13]
+
+[00:44:53.11]
+Xisqueta, jo sempre havia pensat
+que m'aniria primer,
+[00:44:56.14]
+
+[00:44:58.02]
+no estava preparat per...
+[00:44:59.16]
+
+[00:45:03.00]
+Si no fos perquè...
+[00:45:04.06]
+
+[00:45:06.00]
+Perquè encara te not
+i te perceb per ca nostra...
+[00:45:09.13]
+
+[00:45:12.01]
+Hi ha dematins
+que no m'aixecaria, t'ho promet.
+[00:45:14.17]
+
+[00:45:19.22]
+Bé, ja està, ja està, Xisqueta,
+ja està, sempre en davant.
+[00:45:24.22]
+
+[00:45:26.15]
+Amunt el cor, eh?
+[00:45:27.17]
+
+[00:45:35.11]
+# Vull pensar que encara em sents,
+# que me veus i que m'escoltes.
+[00:45:39.10]
+
+[00:45:43.16]
+# Que ja has trobat aquella essència
+# que et fa estar millor que abans.
+[00:45:48.13]
+
+[00:45:51.24]
+# Recordes aquell temps
+# quan passejàvem junts
+[00:45:54.16]
+
+[00:45:54.17]
+# per dins la vila,
+# cada dia igual.
+[00:45:59.13]
+
+[00:45:59.14]
+# Regàvem junts les emocions
+# que a poc a poc mos convertien
+[00:46:03.08]
+
+[00:46:05.17]
+# en persones més grans 
+# i mos anàvem separant.
+[00:46:11.06]
+
+[00:46:15.23]
+# I ara vas pel teu camí.
+[00:46:20.07]
+
+[00:46:24.20]
+# I ara vas...
+[00:46:27.03]
+
+[00:46:30.01]
+# I t'allunyes d'aquí i de tot. #
+[00:46:33.07]
+

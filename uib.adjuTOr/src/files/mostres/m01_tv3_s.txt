@@ -1,0 +1,3631 @@
+{QTtext}{font:Helvetica}{bold}{size:28}{textColor: 0, 65535, 0}{backColor: 0, 0, 0}{justify:center}{timeScale:25}{width:720}{height:64}{timeStamps:absolute}{language:0}{textEncoding:0}
+
+[10:00:01:07]
+(plats: dringadissa)
+[10:00:04:00]
+
+[10:00:12:24]
+(màquina de cafè: xiula)
+[10:00:15:15]
+
+[10:00:29:03]
+(gos: grinyola)
+[10:00:31:06]
+
+[10:00:32:14]
+Hola. M'han avançat el viatge. Me'n vaig a Roma avui.
+[10:00:35:16]
+
+[10:00:35:20]
+Són coses de l'empresa. Et podries quedar amb el Bruno des d'avui?
+[10:00:39:17]
+
+[10:00:41:12]
+Són només 3 setmanes abans del que havíem pactat.
+[10:00:43:18]
+
+[10:00:43:22]
+(gos: borda)
+[10:00:45:23]
+
+[10:00:46:02]
+Collons. Anem a seure.
+[10:00:47:20]
+
+[10:00:47:24]
+(gos: borda)
+[10:00:50:10]
+
+[10:00:54:20]
+(gos: borda)
+[10:00:58:05]
+
+[10:00:58:09]
+No ve de 3 setmanes. Porta'm el Bruno avui.
+[10:01:00:22]
+
+[10:01:01:01]
+No l'esperava ara però ja me'n faré la idea...
+[10:01:03:03]
+
+[10:01:03:07]
+Parlaré amb els meus pares,
+[10:01:05:08]
+
+[10:01:05:12]
+prefereixo que s'estigui amb ells fins que estiguis preparat per...
+[10:01:08:14]
+
+[10:01:08:18]
+Estic preparat. N'hem parlat molts cops, Bàrbara. De què tens por?
+[10:01:11:21]
+
+[10:01:12:00]
+És igual, Merlí, deixem-ho com estava planejat.
+[10:01:14:14]
+
+[10:01:14:18]
+D'aquí 3 setmanes els meus pares te'l portaran. Els truco...
+[10:01:17:23]
+
+[10:01:18:02]
+Aquest cony de gos m'ha estat llepant la sabata.
+[10:01:20:04]
+
+[10:01:20:08]
+Ja saps com m'emprenya això.
+[10:01:22:09]
+
+[10:01:23:03]
+He estat a punt de dir-li quatre coses a l'amo.
+[10:01:25:16]
+
+[10:01:25:20]
+Però no ho he fet, perquè volia que veiessis que em sé controlar.
+[10:01:30:02]
+
+[10:01:30:06]
+Com amb el Bruno, que també em sabré controlar.
+[10:01:34:02]
+
+[10:01:34:06]
+Encara que pateixis per si no me'n cuido prou.
+[10:01:36:01]
+
+[10:01:36:05]
+Pateixo.
+[10:01:37:13]
+
+[10:01:38:02]
+Es pateix menys al costat d'una bona companyia, no?
+[10:01:40:24]
+
+[10:01:41:03]
+(gos: borda)
+[10:01:43:07]
+
+[10:01:43:11]
+No tinc cap nòvio a Roma i no vull que et fiquis a la meva vida.
+[10:01:46:03]
+
+[10:01:46:07]
+Tant et costa dir la veritat?
+[10:01:48:07]
+
+[10:01:50:00]
+Es diu Salvatore.
+[10:01:51:24]
+
+[10:01:53:23]
+No l'hi diguis al Bruno. La feina no té res a veure amb ell.
+[10:01:56:20]
+
+[10:01:56:24]
+Però et va ajudar a trobar-la.
+Aquí no tindré mai un càrrec així.
+[10:02:00:06]
+
+[10:02:00:10]
+(gos: borda)
+[10:02:02:03]
+
+[10:02:03:01]
+He de preparar coses.
+Enviaràs la pensió cada mes?
+[10:02:07:02]
+
+[10:02:07:07]
+No li he fallat mai, al meu fill.
+[10:02:09:11]
+
+[10:02:09:15]
+(gos: borda)
+Collons!
+[10:02:11:01]
+
+[10:02:12:20]
+Ei! Pots fer que calli, el millor amic de l'home d'una puta vegada?
+[10:02:17:06]
+
+[10:02:19:05]
+Digue-li al Bruno que tindrà l'habitació a punt.
+[10:02:21:07]
+
+[10:02:21:11]
+Us espero a les 3 a casa.
+Molt bé. Fins després.
+[10:02:23:19]
+
+[10:02:23:23]
+Adéu.
+Adéu.
+[10:02:25:04]
+
+[10:02:40:15]
+És a mi, a qui busqueu. Sóc el Merlí Bergeron.
+[10:02:44:14]
+
+[10:02:44:18]
+Suposo que quan us han dit que us tocava cobrir un desnonament
+[10:02:47:10]
+
+[10:02:47:14]
+heu pensat "merda, que desagradable".
+[10:02:49:18]
+
+[10:02:49:22]
+No patiu.
+[10:02:51:11]
+
+[10:02:51:15]
+Fa temps que tinc assumit que hauré de viure a casa de la meva mare.
+[10:02:54:18]
+
+[10:02:54:22]
+Au, passem.
+[10:02:56:12]
+
+[10:02:56:16]
+És el que té aquesta ciutat:
+[10:02:58:15]
+
+[10:02:58:19]
+hi ha lloc pels turistes però no pels que hi vivim.
+[10:03:01:05]
+
+[10:03:01:09]
+# ("Minuet en sol major", de J.S. Bach)
+[10:03:06:11]
+
+[10:03:06:15]
+#
+[10:03:26:22]
+
+[10:03:27:01]
+(Bàrbara) T'instal·les a casa del pare des d'avui.
+[10:03:29:06]
+
+[10:03:29:10]
+-És el millor que em podia passar.
+-Bruno...
+[10:03:31:15]
+
+[10:03:31:19]
+Encara puc tenir més sort: em trenco la cama ballant i canto bingo.
+[10:03:35:06]
+
+[10:03:35:10]
+En el fons us assembleu.
+[10:03:37:05]
+
+[10:03:37:09]
+No pateixis per les classes de dansa. Les continuaré pagant.
+[10:03:39:10]
+
+[10:03:39:14]
+Vaja, quin canvi... Abans sempre hi posaves pegues.
+[10:03:43:05]
+
+[10:03:43:16]
+Bruno.
+[10:03:44:17]
+
+[10:03:45:00]
+Ha de ser molt bona aquesta feina...
+[10:03:46:23]
+
+[10:03:47:02]
+Doncs sí. I m'ha costat molt acceptar-la.
+[10:03:49:03]
+
+[10:03:49:19]
+Ha.
+[10:03:50:19]
+
+[10:03:50:23]
+Què?
+[10:03:51:23]
+
+[10:03:52:02]
+-Tens un nòvio allà. Ho he vist...
+-M'has remenat el mòbil?
+[10:03:55:10]
+
+[10:03:55:14]
+Era estrany que marxessis a Roma per una merda de feina...
+[10:03:57:24]
+
+[10:03:58:03]
+No és una merda de feina.
+[10:04:00:01]
+
+[10:04:00:05]
+...com si fos el més normal del món.
+[10:04:02:06]
+
+[10:04:02:10]
+Et vaig oferir la possibilitat de venir amb mi.
+[10:04:04:10]
+
+[10:04:04:14]
+Passo d'aventures romanes.
+[10:04:06:08]
+
+[10:04:06:12]
+No puc marxar si estàs enfadat.
+[10:04:08:12]
+
+[10:04:08:16]
+Potser quan arribis a Roma ja m'haurà passat.
+[10:04:11:18]
+
+[10:04:28:01]
+(porta: timbre)
+[10:04:30:04]
+
+[10:04:30:08]
+Però que jo hagi de presentar currículums... Tinc una dignitat.
+[10:04:33:20]
+
+[10:04:33:24]
+Espera un moment.
+[10:04:35:23]
+
+[10:04:37:06]
+(sospira)
+[10:04:38:17]
+
+[10:04:39:04]
+Ja t'han desterrat?
+[10:04:40:24]
+
+[10:04:43:21]
+Digues.
+[10:04:45:00]
+
+[10:04:45:04]
+Sí, sí...
+[10:04:46:17]
+
+[10:04:48:04]
+És clar... Ja. Que sí!
+[10:04:51:22]
+
+[10:04:53:01]
+Però, escolta, quants anys té aquest director?
+[10:04:55:20]
+
+[10:04:56:17]
+Aiii... 27?
+[10:04:58:17]
+
+[10:04:58:22]
+Digue-li de part meva que quan ell va néixer
+[10:05:01:10]
+
+[10:05:01:14]
+jo ja feia d'Antígona als escenaris.
+[10:05:03:15]
+
+[10:05:03:20]
+Home, no sóc una actriu qualsevol, sóc la Calduch!
+[10:05:06:17]
+
+[10:05:07:12]
+Ja me'n diràs el què. T'estimo.
+[10:05:10:13]
+
+[10:05:12:13]
+Representants!
+[10:05:13:20]
+
+[10:05:15:07]
+Vas rebutjar una feina que t'hauria permès pagar el lloguer.
+[10:05:18:12]
+
+[10:05:18:18]
+No faré cap feina que no sigui de professor.
+[10:05:21:06]
+
+[10:05:21:13]
+I el Bruno? No venia a viure amb tu?
+[10:05:23:16]
+
+[10:05:25:15]
+Ah. Tots tres aquí.
+[10:05:27:06]
+
+[10:05:27:10]
+La Bàrbara m'ha demanat que em quedi amb ell des d'aquesta tarda.
+[10:05:30:03]
+
+[10:05:30:21]
+A aquest director... li hauré de domesticar l'ego.
+[10:05:34:00]
+
+[10:05:34:10]
+Fa un "Hamlet" amb els personatges vestits de militars
+[10:05:37:19]
+
+[10:05:37:23]
+i es pensa que és transgressor.
+[10:05:39:22]
+
+[10:05:42:02]
+El Bruno m'agrada,
+[10:05:43:21]
+
+[10:05:45:13]
+té talent.
+[10:05:47:00]
+
+[10:05:47:04]
+Una cosa: ell creu que treballes, i no sap que t'han fet fora de casa.
+[10:05:50:22]
+
+[10:05:51:01]
+O li dius tota la veritat o no viureu aquí.
+[10:05:54:01]
+
+[10:06:17:14]
+# ("El vol del borinot", de Nikolai Rimski-Kórsakov) #
+[10:06:22:05]
+
+[10:06:22:09]
+#
+[10:06:45:10]
+
+[10:06:54:16]
+20 minuts tard.
+[10:06:56:05]
+
+[10:06:56:09]
+-(esbufega)
+-Primera merlinada.
+[10:06:58:10]
+
+[10:07:01:01]
+Et trobaré a faltar.
+[10:07:02:24]
+
+[10:07:03:22]
+Segur?
+[10:07:05:10]
+
+[10:07:12:02]
+Per què canvies els plans a última hora?
+[10:07:14:03]
+
+[10:07:14:07]
+Encara hauria arribat més tard si haguéssim quedat a casa.
+[10:07:16:22]
+
+[10:07:17:01]
+S'ha allargat la reunió del claustre.
+[10:07:19:07]
+
+[10:07:19:11]
+Què, preparat per discutir cada dia?
+Merlí, sisplau...
+[10:07:22:13]
+
+[10:07:22:17]
+És broma, dona. Segur que ens ho passarem molt bé. Sí o no?
+[10:07:25:22]
+
+[10:07:26:01]
+He de respondre ara?
+[10:07:27:22]
+
+[10:07:28:01]
+Anireu a casa caminant? Tan carregats?
+[10:07:30:03]
+
+[10:07:30:07]
+Taxi!
+[10:07:31:07]
+
+[10:07:34:07]
+(porta del taxi: s'obre i es tanca)
+[10:07:36:22]
+
+[10:07:37:04]
+Gràcies.
+[10:07:38:07]
+
+[10:07:42:11]
+-Adéu, carinyo.
+-No ploraràs, ara?
+[10:07:44:15]
+
+[10:07:44:23]
+Si m'abraces, no.
+[10:07:46:17]
+
+[10:07:53:12]
+(inspira)
+[10:07:54:16]
+
+[10:07:59:03]
+Au, adéu.
+[10:08:00:20]
+
+[10:08:04:16]
+Va, vés, que perdràs l'avió.
+[10:08:06:14]
+
+[10:08:06:21]
+Sí.
+[10:08:07:24]
+
+[10:08:15:19]
+Pari, pari. No, res, que hem de baixar, ho sento.
+[10:08:18:24]
+
+[10:08:19:03]
+Surt, surt. No, que hem d'agafar les maletes.
+[10:08:21:08]
+
+[10:08:21:12]
+Què fas?
+[10:08:23:04]
+
+[10:08:26:05]
+Hem d'estalviar, nen.
+[10:08:28:04]
+
+[10:08:29:23]
+Podries fer un mínim esforç per no avergonyir-me?
+[10:08:32:16]
+
+[10:08:35:05]
+Flipo!
+[10:08:36:09]
+
+[10:08:36:13]
+Guarda les energies que ara fliparàs de veritat.
+[10:08:39:01]
+
+[10:08:49:10]
+(rellotge: tic-tac, tic-tac, tic-tac...)
+[10:08:56:05]
+
+[10:08:58:00]
+Ens has enganyat a mi i a la mama.
+[10:09:00:17]
+
+[10:09:02:15]
+No tens casa. No tens feina. Què hem de fer? Anar a un hotel?
+[10:09:06:19]
+
+[10:09:06:23]
+Bruno, no vull problemes, vull solucions.
+[10:09:09:02]
+
+[10:09:09:06]
+Saps per què hem vingut aquí?
+[10:09:10:24]
+
+[10:09:11:03]
+Això és una solució?! Viure amb la Calduch!
+[10:09:14:03]
+
+[10:09:15:08]
+És el caos!
+[10:09:16:19]
+
+[10:09:16:23]
+Nen, aquí l'única que es posa dramàtica sóc jo.
+[10:09:18:24]
+
+[10:09:19:03]
+Ets a casa meva i mano jo.
+[10:09:21:05]
+
+[10:09:21:09]
+Per damunt del meu fill mano jo!
+[10:09:23:04]
+
+[10:09:24:04]
+No tenim més remei que adaptar-nos.
+La mama encara no ha agafat l'avió.
+[10:09:27:12]
+
+[10:09:27:16]
+Saps per què no he pagat el lloguer durant un any?
+[10:09:29:24]
+
+[10:09:30:03]
+La teva pensió era la meva prioritat.
+[10:09:32:08]
+
+[10:09:32:12]
+Ton pare es pot equivocar en moltes coses, però en això no ha fallat.
+[10:09:34:24]
+
+[10:09:35:03]
+Si la mama ho hagués sabut no m'hauria deixat amb vosaltres.
+[10:09:37:14]
+
+[10:09:37:18]
+No parlis amb ella!
+Deixa'l!
+[10:09:39:12]
+
+[10:09:39:16]
+Que foti el que li doni la gana!
+Calla.
+[10:09:41:20]
+
+[10:09:41:24]
+Calla tu. De veritat que li vols fotre enlaire el viatge?
+[10:09:44:24]
+
+[10:09:46:06]
+Saps que té un nòvio allà?
+Tant me fot.
+[10:09:49:04]
+
+[10:09:49:08]
+Bah! No tinc ganes de perdre el temps discutint amb una criatura.
+[10:09:52:16]
+
+[10:09:54:14]
+Ho diu per mi.
+[10:09:56:10]
+
+[10:09:58:10]
+# (mòbil: "El vol del borinot", de Rimski-Kórsakov) #
+[10:10:06:03]
+
+[10:10:06:15]
+Sí?
+[10:10:08:07]
+
+[10:10:09:05]
+Sí, sóc jo.
+[10:10:11:00]
+
+[10:10:11:08]
+Mama... Que no hem anat a casa del papa...
+[10:10:15:04]
+
+[10:10:15:08]
+A casa la iaia, hem anat!
+[10:10:17:07]
+
+[10:10:17:15]
+Què fots?!
+Calla!
+[10:10:18:16]
+
+[10:10:18:20]
+M'acaben de trucar. Tinc feina.
+Ai, tens feina!
+[10:10:22:00]
+
+[10:10:22:04]
+De què?
+[10:10:23:05]
+
+[10:10:23:09]
+Collons, nen, no te'n recordes? Sóc professor.
+[10:10:26:03]
+
+[10:10:26:12]
+És mentida. No tens feina. T'ho estàs inventant.
+[10:10:29:07]
+
+[10:10:29:11]
+M'estàs fent agafar un mal de cap...
+[10:10:31:18]
+
+[10:10:31:22]
+És el teu cervell que s'esforça per entendre les teves tonteries.
+[10:10:34:17]
+
+[10:10:34:21]
+-Ara has estat bé.
+-Com torni a ser mentida...
+[10:10:38:00]
+
+[10:10:38:04]
+Tinc feina.
+Vale.
+[10:10:40:12]
+
+[10:10:43:08]
+(sospira)
+[10:10:44:16]
+
+[10:10:45:09]
+Nen... És mentida, oi?
+[10:10:47:16]
+
+[10:10:47:20]
+No. M'han trucat d'Ensenyament i he de cobrir una baixa. Començo demà.
+[10:10:51:12]
+
+[10:10:53:05]
+No sembles del tot content.
+[10:10:55:07]
+
+[10:11:30:07]
+Hola. Tu deus ser el Merlí, de filosofia.
+[10:11:32:20]
+
+[10:11:32:24]
+Sí.
+[10:11:34:01]
+
+[10:11:34:05]
+Hola. Sóc el Toni, el director de l'institut, i profe de matemàtiques.
+[10:11:36:16]
+
+[10:11:36:20]
+Benvingut.
+[10:11:37:20]
+
+[10:11:37:24]
+El professor de filosofia s'ha posat malalt, i en té per mesos.
+[10:11:40:11]
+
+[10:11:40:15]
+Ja. No faré veure que em sap greu.
+Seràs tutor de 1r de batxillerat.
+[10:11:43:21]
+
+[10:11:44:00]
+Tutor? Ah, carai, així podré cobrar un complement...
+[10:11:46:15]
+
+[10:11:46:19]
+que em donarà per sortir a menjar una pizza de tant en tant.
+[10:11:49:05]
+
+[10:11:49:09]
+Et presento la resta de professors.
+[10:11:51:07]
+
+[10:11:51:11]
+És estrictament necessari?
+Home... i tant.
+[10:11:53:19]
+
+[10:11:53:23]
+La penitència de sempre.
+[10:11:55:18]
+
+[10:11:56:22]
+La Glòria, professora de plàstica i de dibuix,
+[10:11:58:20]
+
+[10:11:58:24]
+ell és el Merlí, el nou de filosofia.
+[10:12:00:24]
+
+[10:12:01:03]
+Què tal?
+[10:12:02:05]
+
+[10:12:02:09]
+I el Santi, el seu marit, que és professor de castellà.
+[10:12:05:09]
+
+[10:12:05:13]
+Encantat.
+Igualment.
+[10:12:07:01]
+
+[10:12:07:05]
+Estem casats però no ho sembla, oi?
+[10:12:09:21]
+
+[10:12:10:20]
+Calla, tu!
+[10:12:12:04]
+
+[10:12:12:12]
+Permís, permís.
+[10:12:13:23]
+
+[10:12:14:02]
+I l'Eugeni Bosch... cap d'estudis. Llengua i literatura catalanes.
+[10:12:18:07]
+
+[10:12:18:11]
+Com va?
+Benvingut a les trinxeres.
+[10:12:21:01]
+
+[10:12:21:05]
+Tu ets el nou Aristòtil...
+[10:12:23:05]
+
+[10:12:23:09]
+Hmm.
+[10:12:25:01]
+
+[10:12:25:17]
+Estava cantat que la filosofia acabaria infravalorada per tothom.
+[10:12:28:20]
+
+[10:12:28:24]
+Vaig ser el primer a publicar un article sobre el tema.
+[10:12:31:00]
+
+[10:12:31:04]
+Que interessant.
+[10:12:33:04]
+
+[10:12:33:08]
+L'Eugeni té un blog de literatura... Està bé.
+[10:12:35:11]
+
+[10:12:35:15]
+Podria fer-te una entrevista, seria un encert parlar de filosofia.
+[10:12:39:01]
+
+[10:12:40:16]
+La Mireia, de Llatí. Ell és el Merlí, substitueix el David.
+[10:12:43:01]
+
+[10:12:43:05]
+Què tal?
+Hola. Encantada.
+[10:12:45:14]
+
+[10:12:45:18]
+La Mireia és una de les promeses de l'institut.
+[10:12:48:15]
+
+[10:12:49:19]
+-Exagerat...
+-No, no. Ets un diamant en brut.
+[10:12:52:19]
+
+[10:12:52:23]
+Si et deixes aconsellar acabaràs sent una gran professora.
+[10:12:56:09]
+
+[10:12:56:18]
+Hi ha algun lavabo aquí a prop o vomito aquí mateix?
+[10:12:59:21]
+
+[10:13:04:11]
+Aquí tens els horaris. Sort el primer dia.
+[10:13:07:10]
+
+[10:13:07:14]
+Gràcies.
+[10:13:08:18]
+
+[10:13:10:18]
+Hola a tothom.
+[10:13:12:01]
+
+[10:13:12:05]
+Hola.
+[10:13:13:13]
+
+[10:13:13:24]
+Arribo tard.
+[10:13:15:14]
+
+[10:13:15:18]
+He hagut d'anar al veterinari,
+[10:13:17:10]
+
+[10:13:17:14]
+la meva gossa s'ha trobat malament tota la nit, pobreta.
+[10:13:20:11]
+
+[10:13:20:15]
+Hola.
+Hola.
+[10:13:22:00]
+
+[10:13:22:04]
+Ho he passat fatal. Glòria, tens les meves fotocòpies?
+[10:13:25:15]
+
+[10:13:25:19]
+-Són aquestes.
+-Gràcies.
+[10:13:27:03]
+
+[10:13:28:00]
+Merlí. Filosofia.
+[10:13:29:21]
+
+[10:13:30:00]
+Què tal?
+[10:13:31:16]
+
+[10:13:33:20]
+Et dius Merlí?
+Sí, sí.
+[10:13:36:05]
+
+[10:13:36:09]
+M'agrada aquest nom.
+[10:13:38:11]
+
+[10:13:38:15]
+Sóc la Laia, d'anglès.
+Mm-hm.
+[10:13:40:22]
+
+[10:13:42:11]
+Arribo tard a classe, fins després.
+Adéu.
+[10:13:44:14]
+
+[10:13:49:13]
+Em sap greu. Surt amb l'Albert, el professor d'educació física.
+[10:13:53:20]
+
+[10:13:54:00]
+Me'n vaig. Tinc classe a primer de batxillerat.
+[10:13:56:11]
+
+[10:13:56:15]
+Buff... Quin començament... Vigila amb el Pol Rubio.
+[10:14:00:11]
+
+[10:14:00:15]
+És un impertinent! I no pren mai apunts!
+[10:14:03:02]
+
+[10:14:03:06]
+Ha repetit dos cursos.
+[10:14:05:04]
+
+[10:14:05:08]
+El reconeixeràs perquè està enganxat sempre als morros de la Berta Prats.
+[10:14:08:15]
+
+[10:14:08:19]
+Hm.
+[10:14:09:22]
+
+[10:14:10:11]
+Sort.
+[10:14:11:14]
+
+[10:14:14:19]
+# (cantusseja) Babababababa...
+[10:14:17:21]
+
+[10:14:18:00]
+# aaaaaa... mamamamamama... bababababa... #
+[10:14:21:16]
+
+[10:14:21:20]
+(s'escura la gola)
+[10:14:23:12]
+
+[10:14:23:16]
+# (imita una trompeta)
+[10:14:25:20]
+
+[10:14:25:24]
+# Babababa... # Eee...
+[10:14:28:01]
+
+[10:14:36:01]
+(enrenou de converses)
+[10:14:38:18]
+
+[10:14:50:21]
+Joan, tens un boli de sobres?
+[10:14:53:13]
+
+[10:14:56:07]
+Et vaig tornar el que em vas donar l'altre dia?
+[10:14:58:10]
+
+[10:14:58:14]
+És igual.
+[10:14:59:24]
+
+[10:15:08:24]
+Bruno...
+[10:15:10:04]
+
+[10:15:10:08]
+-Tinc tanta sort.
+-Per què?
+[10:15:12:09]
+
+[10:15:12:13]
+Havia de viure amb mon pare i també viuré amb la flipada de l'àvia.
+[10:15:15:23]
+
+[10:15:16:02]
+Hòstia, no fotis!
+[10:15:17:24]
+
+[10:15:18:03]
+Bruno, tio! Et vas petar les classes ahir! Que estaves malalt o què?
+[10:15:22:09]
+
+[10:15:23:04]
+Més o menys.
+[10:15:24:19]
+
+[10:15:25:10]
+-Avui ve el nou de filo?
+-Sí.
+[10:15:27:11]
+
+[10:15:27:23]
+-El nou de filo...?
+-(noia) El substitut.
+[10:15:30:11]
+
+[10:15:33:01]
+Què passa?
+[10:15:34:07]
+
+[10:15:34:21]
+Res. És igual.
+[10:15:37:07]
+
+[10:15:42:19]
+# (imita una trompeta: "Les Valquíries", de Wagner) #
+[10:15:48:21]
+
+[10:15:49:16]
+#
+[10:15:53:03]
+
+[10:15:53:11]
+(s'escura la gola)
+[10:15:55:06]
+
+[10:15:59:10]
+Bon dia, nois!
+[10:16:01:11]
+
+[10:16:02:11]
+-És ell, el meu pare!
+-En sèrio! És el teu...
+[10:16:05:08]
+
+[10:16:05:12]
+Calla, calla!
+[10:16:06:20]
+
+[10:16:11:17]
+Bé, em dic Merlí...
+[10:16:14:23]
+
+[10:16:15:22]
+i vull que la filosofia us faci trempar.
+[10:16:18:05]
+
+[10:16:18:14]
+El Marc ve cada dia trempat de casa.
+Capullo!
+[10:16:22:05]
+
+[10:16:24:07]
+Vaja, que em proposo encomanar-vos l'interès per la filosofia.
+[10:16:27:16]
+
+[10:16:27:20]
+(s'escura la gola) Tu, com et dius?
+[10:16:30:12]
+
+[10:16:30:24]
+Bruno.
+Bruno què?
+[10:16:32:24]
+
+[10:16:33:03]
+Bergeron.
+[10:16:34:22]
+
+[10:16:35:22]
+Ber... Berg... Quin collons de cognom és aquest?
+[10:16:39:02]
+
+[10:16:39:06]
+És francès.
+[10:16:40:16]
+
+[10:16:40:20]
+Creus que la filosofia serveix per alguna cosa?
+[10:16:43:13]
+
+[10:16:44:22]
+Sí.
+[10:16:45:24]
+
+[10:16:46:09]
+Això és el que volia sentir.
+[10:16:48:04]
+
+[10:16:49:02]
+N'estic fins als collons
+[10:16:51:02]
+
+[10:16:51:06]
+de la gent que diu que la filosofia no serveix per res.
+[10:16:54:13]
+
+[10:16:54:17]
+Sembla que el sistema educatiu ha oblidat les preguntes "Qui som?"
+[10:16:58:12]
+
+[10:16:58:16]
+"D'on venim?" "On anem?"
+[10:17:01:01]
+
+[10:17:01:05]
+Ara només importa "Quina empresa muntem? Quanta pasta fotrem?".
+[10:17:05:20]
+
+[10:17:06:15]
+La filosofia serveix per reflexionar...
+[10:17:09:02]
+
+[10:17:09:06]
+reflexionar sobre la vida, sobre l'ésser humà,
+[10:17:13:09]
+
+[10:17:13:13]
+i per qüestionar les coses.
+[10:17:15:21]
+
+[10:17:16:13]
+Potser per això se la volen carregar, la troben perillosa.
+[10:17:19:22]
+
+[10:17:21:10]
+Filosofia i poder tenen una tensió sexual no resolta.
+[10:17:24:18]
+
+[10:17:28:15]
+Què és la filosofia?
+[10:17:30:15]
+
+[10:17:30:19]
+Ni idea, oi?
+[10:17:32:15]
+
+[10:17:34:10]
+No és només un conjunt de preguntes profundes i de veritats absolutes.
+[10:17:39:10]
+
+[10:17:39:14]
+La Filosofia és posar potes enlaire tot el que donem per sabut.
+[10:17:43:13]
+
+[10:17:46:24]
+Hòstia, foteu tots una cara d'empanats...
+[10:17:49:04]
+
+[10:17:49:08]
+Tots no, eh?
+[10:17:51:03]
+
+[10:17:51:07]
+En contra del que pensa molta gent, els adolescents no sou tontos.
+[10:17:54:24]
+
+[10:17:55:03]
+Ell sí.
+Com me la tornes, eh!
+[10:17:57:20]
+
+[10:17:57:24]
+El que passa és que esteu adormits.
+[10:18:00:00]
+
+[10:18:00:04]
+No aixequeu el cul de la cadira si no és que us prenen el mòbil.
+[10:18:03:04]
+
+[10:18:05:03]
+Us vull veure desperts, amb les antenes posades.
+[10:18:07:14]
+
+[10:18:07:18]
+Atents al que passa al vostre voltant,
+[10:18:10:02]
+
+[10:18:10:06]
+preparats per assumir les contradiccions
+[10:18:13:00]
+
+[10:18:13:04]
+i els dubtes que planteja la vida...
+[10:18:15:09]
+
+[10:18:15:13]
+i per afrontar les adversitats,
+[10:18:17:23]
+
+[10:18:18:18]
+i sobretot, com que en aquesta vida no sempre es guanya,
+[10:18:23:01]
+
+[10:18:23:05]
+per aprendre de les derrotes.
+[10:18:25:15]
+
+[10:18:27:08]
+Jo en sé una mica, d'aquest tema:
+[10:18:29:08]
+
+[10:18:29:12]
+ahir mateix, per exemple, em van fotre fora del pis que tenia llogat.
+[10:18:32:10]
+
+[10:18:32:19]
+Em van fer fora de casa perquè no pagava.
+[10:18:35:22]
+
+[10:18:36:05]
+Quin morro que tinc, oi?
+[10:18:38:05]
+
+[10:18:40:09]
+Vosaltres i jo tenim dues coses en comú, ara que hi penso:
+[10:18:43:01]
+
+[10:18:43:05]
+vivim a casa la mama i no tenim ni un euro.
+[10:18:46:13]
+
+[10:18:46:17]
+(rialles)
+[10:18:47:20]
+
+[10:18:47:24]
+Ho dius així, tan tranquil, com si no t'afectés.
+[10:18:50:03]
+
+[10:18:50:07]
+Què vols que foti? Que em posi a plorar?
+[10:18:52:09]
+
+[10:18:52:13]
+Prefereixo riure-me'n, de l'adversitat.
+[10:18:55:01]
+
+[10:18:56:08]
+Va, expliqueu-me algun problema personal rient. Qui vol començar?
+[10:19:00:12]
+
+[10:19:05:23]
+Tu. Com et dius?
+[10:19:07:14]
+
+[10:19:07:18]
+Tània.
+Molt bé, Tània.
+[10:19:09:17]
+
+[10:19:09:21]
+Doncs al meu pare l'han pillat els d'hisenda fent trampes.
+[10:19:12:23]
+
+[10:19:13:02]
+(noia) Sí home!
+[10:19:14:17]
+
+[10:19:14:21]
+(Tània) T'ho juro: ha de pagar una multa...
+[10:19:16:21]
+
+[10:19:17:00]
+És que no sap mentir, el meu pare, és "cutre", no ho sé.
+[10:19:20:07]
+
+[10:19:20:18]
+Dóna-li records de part meva.
+Vale.
+[10:19:23:13]
+
+[10:19:23:17]
+No està malament, però us demano coses vostres.
+[10:19:26:00]
+
+[10:19:26:04]
+Va, vinga, animeu-vos. Qui? Qui?
+(pica de mans)
+[10:19:28:16]
+
+[10:19:28:20]
+Qui més s'anima? Va. Tu.
+[10:19:30:14]
+
+[10:19:30:18]
+Em dic Joan Capdevila.
+[10:19:32:17]
+
+[10:19:32:21]
+I el meu problema és...
+[10:19:35:18]
+
+[10:19:35:22]
+bueno, no sé si és un problema, però... sóc molt tímid.
+[10:19:41:04]
+
+[10:19:41:08]
+Ja. Però digue-m'ho rient, això.
+[10:19:43:18]
+
+[10:19:43:22]
+Sóc molt tímid!
+[10:19:45:07]
+
+[10:19:45:11]
+Sí, però t'has atrevit a aixecar la mà i parlar davant de tots.
+[10:19:49:05]
+
+[10:19:49:23]
+Potser no ho ets tant.
+[10:19:51:23]
+
+[10:19:53:17]
+Algú més?
+[10:19:54:20]
+
+[10:19:56:12]
+Digues.
+[10:19:57:18]
+
+[10:19:57:22]
+Sempre... bueno... Em dic Gerard.
+[10:19:59:19]
+
+[10:20:00:23]
+A mi sempre em mola alguna tia, però elles mai es fixen en mi.
+[10:20:05:03]
+
+[10:20:07:04]
+Com ho saps? Que llegeixes el pensament?
+[10:20:09:11]
+
+[10:20:09:15]
+Potser en aquest institut hi ha alguna noia
+[10:20:13:06]
+
+[10:20:13:10]
+que pensa en tu cada nit abans d'anar a dormir.
+[10:20:15:22]
+
+[10:20:18:15]
+Va, ara jo.
+[10:20:20:16]
+
+[10:20:21:16]
+No prenc apunts. T'aviso perquè ho sàpigues.
+[10:20:25:03]
+
+[10:20:25:07]
+No sé escoltar i escriure a la vegada. I cap professor no ho entén.
+[10:20:29:24]
+
+[10:20:30:03]
+Jo sí.
+[10:20:31:19]
+
+[10:20:31:23]
+A filosofia només cal que escoltis i que aprenguis a pensar.
+[10:20:36:14]
+
+[10:20:37:01]
+Tant se me'n fot que no prenguis apunts, Pol Rubio.
+[10:20:39:09]
+
+[10:20:39:13]
+Com saps el meu nom?
+[10:20:41:16]
+
+[10:20:41:20]
+M'han dit que t'agrada tant estudiar
+[10:20:43:18]
+
+[10:20:43:22]
+que acostumes a fer els cursos dues vegades.
+[10:20:47:05]
+
+[10:20:48:13]
+(timbre)
+[10:20:57:01]
+
+[10:20:57:05]
+Sembla que no el coneguis.
+[10:20:58:24]
+
+[10:20:59:03]
+És que no el conec. No ho sé...
+[10:21:01:21]
+
+[10:21:02:00]
+Xxt!
+[10:21:03:03]
+
+[10:21:03:07]
+No puc dir el mateix, saps.
+[10:21:05:08]
+
+[10:21:05:12]
+Bergeron, un moment.
+[10:21:07:12]
+
+[10:21:08:15]
+Hauries d'estar content! Ja ho has vist, tinc feina, era veritat.
+[10:21:11:19]
+
+[10:21:11:23]
+Ara veuràs com fa les classes ton pare.
+[10:21:14:04]
+
+[10:21:14:08]
+Has demanat treballar al meu insti!
+Va per número, això, eh!
+[10:21:17:15]
+
+[10:21:17:19]
+No puc renunciar a aquesta plaça, si no em quedo fora de llistes.
+[10:21:21:03]
+
+[10:21:21:07]
+De puta mare. Tu fent-me classes i la mama a Roma amb un tio.
+[10:21:24:06]
+
+[10:21:24:10]
+Ha anat a Roma per feina, no per follar.
+[10:21:26:11]
+
+[10:21:26:15]
+La paraula "follar" te la podries estalviar? I més aquí!
+[10:21:29:06]
+
+[10:21:29:10]
+La mare fliparà quan li digui que me'n vaig amb ella.
+[10:21:31:21]
+
+[10:21:32:00]
+Estalviaré i buscaré un pis.
+[10:21:33:21]
+
+[10:21:34:00]
+Jo ja en tenia prou veient-te dos cops al mes.
+[10:21:36:11]
+
+[10:21:36:15]
+I ara et veuré cada dia i a sobre com a professor!
+[10:21:38:21]
+
+[10:21:39:00]
+No és aquest el meu ideal d'adolescència.
+[10:21:41:08]
+
+[10:21:41:12]
+Bruno.
+Què?!
+[10:21:43:11]
+
+[10:21:44:09]
+Quan eres petit us vaig abandonar a tu i a la mama, és cert.
+[10:21:47:09]
+
+[10:21:47:13]
+Em vaig equivocar. Tu no t'equivoques mai?
+[10:21:50:02]
+
+[10:21:50:09]
+Doncs bé, ara m'agradaria ajudar-te a no cometre masses errors.
+[10:21:53:13]
+
+[10:21:54:21]
+Fa anys que només et veig un parell de caps de setmana al mes.
+[10:21:57:20]
+
+[10:21:57:24]
+Quan ta mare em va dir que se n'anava a Roma
+[10:22:00:05]
+
+[10:22:00:09]
+i m'havia de quedar amb tu, me'n vaig alegrar.
+[10:22:03:04]
+
+[10:22:03:08]
+Sí, sí, ja sé que estic molt acostumat a anar per lliure.
+[10:22:06:23]
+
+[10:22:07:13]
+Però... m'agradaria viure amb tu.
+[10:22:10:21]
+
+[10:22:12:04]
+Papa, et poses sentimental o què?
+[10:22:14:05]
+
+[10:22:15:16]
+Et deixaré la meva habitació... és més gran que la que et tocaria.
+[10:22:18:16]
+
+[10:22:19:17]
+Si has d'estar més tranquil, no direm a ningú que sóc el teu pare.
+[10:22:22:15]
+
+[10:22:24:12]
+No sé quant temps podrem estar sense que se sàpiga.
+[10:22:27:07]
+
+[10:22:27:11]
+Però sí, millor que no en diguem res.
+[10:22:29:15]
+
+[10:22:29:19]
+(mòbil: missatge, senyal acústic)
+[10:22:31:17]
+
+[10:22:32:05]
+És que, papa, ets... ets rarot.
+[10:22:34:22]
+
+[10:22:37:11]
+Nxt! Aquest mòbil no mola...
+[10:22:39:18]
+
+[10:22:41:00]
+Està bé, ja te'n compraré un.
+[10:22:43:00]
+
+[10:22:44:21]
+Bé.
+[10:22:45:22]
+
+[10:22:47:03]
+Quina merda d'adolescència és aquesta
+[10:22:49:06]
+
+[10:22:49:10]
+que un pare val el preu d'un mòbil?
+[10:22:51:19]
+
+[10:22:51:23]
+I res, el veterinari li ha fet unes proves, i tot bé.
+[10:22:55:15]
+
+[10:22:56:13]
+Després de la nit que he passat almenys una alegria.
+[10:23:00:02]
+
+[10:23:00:06]
+Potser va menjar alguna cosa en mal estat.
+[10:23:02:19]
+
+[10:23:02:23]
+-Suposo...
+[10:23:04:02]
+
+[10:23:04:06]
+Vols que aquest vespre vingui a casa teva?
+[10:23:06:11]
+
+[10:23:06:15]
+Estic molt cansada, si no he dormit aquesta nit.
+[10:23:08:24]
+
+[10:23:09:03]
+Com vulguis.
+[10:23:10:17]
+
+[10:23:11:17]
+Bueno, va, vine... Et quedes a dormir?
+[10:23:14:05]
+
+[10:23:14:20]
+Sí.
+[10:23:15:21]
+
+[10:23:16:00]
+Ei, què tal?
+[10:23:17:21]
+
+[10:23:18:00]
+Hola. Com ha anat la primera classe?
+Bé, molt bé.
+[10:23:20:23]
+
+[10:23:21:02]
+Et presento l'Albert, d'educació física.
+[10:23:23:09]
+
+[10:23:23:13]
+Ell és el Merlí, de filosofia.
+Què tal?
+[10:23:26:14]
+
+[10:23:26:18]
+Hola.
+[10:23:27:20]
+
+[10:23:27:24]
+Vaig passant, que si no arribo tard a classe.
+[10:23:30:01]
+
+[10:23:30:05]
+-Ens veiem després.
+-Molt bé.
+[10:23:32:07]
+
+[10:23:32:11]
+Adéu.
+[10:23:33:19]
+
+[10:23:34:11]
+És el teu nòvio?
+Sí.
+[10:23:37:01]
+
+[10:23:37:05]
+Quina edat té?
+27.
+[10:23:39:10]
+
+[10:23:39:21]
+Ets prou atractiva com per estar amb algú més gran i experimentat, home.
+[10:23:44:14]
+
+[10:23:45:08]
+Però per què em dius això?
+[10:23:47:08]
+
+[10:23:47:12]
+No, per res. No et volia molestar. Ens veiem per aquí, eh.
+[10:23:50:17]
+
+[10:23:52:00]
+(s'escura la gola)
+[10:23:53:20]
+
+[10:24:02:14]
+(enrenou de converses)
+[10:24:04:15]
+
+[10:24:04:19]
+Era un amargat...
+Jo no el suportava, tio.
+[10:24:08:11]
+
+[10:24:08:15]
+Un cop vaig haver de parlar amb ell.
+Era un "gilipollas".
+[10:24:10:23]
+
+[10:24:11:02]
+Vaig anar a parlar amb ell al seu despatx i no es pot parlar amb ell.
+[10:24:13:20]
+
+[10:24:13:24]
+-Es va posar molt sèrio.
+-Molt, eh!
+[10:24:16:01]
+
+[10:24:16:05]
+M'ha encantat la classe del Merlí. És de puta mare.
+[10:24:20:05]
+
+[10:24:20:09]
+Jo primer he pensat "quin penjat", però després m'ha molat.
+[10:24:24:15]
+
+[10:24:24:19]
+-Em cau pitjor el gordo del Santi.
+-Què va. El Santi mola.
+[10:24:27:20]
+
+[10:24:27:24]
+A mi m'ha semblat interessant, la classe.
+[10:24:30:04]
+
+[10:24:31:07]
+Què passa?
+[10:24:33:04]
+
+[10:24:33:08]
+Joan, a tu et semblen interessants les tutories.
+[10:24:35:14]
+
+[10:24:36:21]
+El Merlí ha esnifat alguna cosa del pal cola abans d'entrar a classe.
+[10:24:41:03]
+
+[10:24:41:07]
+Jo li he dit que no prenia apunts i m'ha entès perfectament.
+[10:24:43:21]
+
+[10:24:44:00]
+Jo t'entenc millor, amor.
+No em diguis "amor".
+[10:24:46:08]
+
+[10:24:46:12]
+Borde.
+[10:24:47:12]
+
+[10:24:50:07]
+(Tània: riu)
+[10:24:52:01]
+
+[10:24:53:19]
+El Merlí és el meu pare.
+[10:24:55:16]
+
+[10:24:57:20]
+-Què dius?!
+-Va, calla...
+[10:24:59:20]
+
+[10:25:00:07]
+Ei, que ho diu en sèrio.
+[10:25:02:05]
+
+[10:25:03:09]
+-(Berta) Però si no tens pare.
+-És clar que tinc pare!
+[10:25:05:19]
+
+[10:25:06:18]
+Si el Merlí t'ha preguntat el nom.
+[10:25:08:12]
+
+[10:25:08:16]
+És veritat... I s'ha rigut del teu cognom, (accent francès) Bergeron.
+[10:25:11:16]
+
+[10:25:11:20]
+Justament, tio, l'hi ha dit per fer-li una broma.
+[10:25:14:01]
+
+[10:25:14:05]
+Tània, és igual.
+[10:25:15:22]
+
+[10:25:16:01]
+Hi ha un tio que va a guitarra amb mi que anava tan catxondo
+[10:25:18:14]
+
+[10:25:18:18]
+que va agafar un meló, el va ficar al microones, li va fer un forat...
+[10:25:21:22]
+
+[10:25:22:01]
+Nooo!
+[10:25:23:01]
+
+[10:25:24:02]
+I després... dunadunaduna! Se'l va follar a sac!
+[10:25:27:17]
+
+[10:25:27:21]
+Un amic, dius? I per què tots els melons estan foradats a casa teva?
+[10:25:32:07]
+
+[10:25:34:24]
+Merlí!
+[10:25:36:06]
+
+[10:25:36:10]
+Laia.
+[10:25:38:02]
+
+[10:25:38:06]
+Abans no he acabat d'entendre el que m'has dit sobre el meu nòvio.
+[10:25:43:03]
+
+[10:25:43:07]
+M'ho pots explicar?
+Sí. He dit que era molt jove.
+[10:25:46:15]
+
+[10:25:46:19]
+I m'ha sorprès perquè les dones atractives com tu
+[10:25:49:21]
+
+[10:25:50:00]
+acostumen a anar amb homes més madurs i experimentats.
+[10:25:52:20]
+
+[10:25:52:24]
+Com ara tu, potser?
+[10:25:54:20]
+
+[10:25:54:24]
+Mira, no et permeto que segueixis per aquest camí.
+[10:25:57:15]
+
+[10:25:57:19]
+Acabes d'arribar nou i jo no t'he donat peu perquè em tiris la canya.
+[10:26:00:19]
+
+[10:26:01:12]
+T'ha quedat clar?
+Transparent.
+[10:26:04:00]
+
+[10:26:04:04]
+Realment, ets molt guapa, eh.
+[10:26:06:04]
+
+[10:26:07:00]
+Però com t'atreveixes?
+[10:26:09:01]
+
+[10:26:09:05]
+T'has ofès? Tan estrany és que digui el que penso?
+[10:26:11:21]
+
+[10:26:12:00]
+Jo sóc així: quan conec una dona atractiva l'hi dic,
+[10:26:14:14]
+
+[10:26:14:18]
+i això no vol dir necessàriament que vulgui res més.
+[10:26:17:14]
+
+[10:26:17:18]
+Simplement mostro la meva admiració davant de la bellesa.
+[10:26:20:05]
+
+[10:26:20:19]
+Gràcies, no...
+No, però res.
+[10:26:23:09]
+
+[10:26:23:21]
+Ets molt guapa, i no fa mal a ningú que ho digui.
+[10:26:26:09]
+
+[10:26:27:01]
+Em queixo del to.
+El to?
+[10:26:29:20]
+
+[10:26:29:24]
+El to era correcte. Sincer, però correcte.
+[10:26:32:09]
+
+[10:26:33:03]
+Mira, és igual, deixem-ho córrer. Fins demà, Merlí.
+[10:26:37:04]
+
+[10:26:41:14]
+Ho veus com no calia el currículum? T'estimo...
+[10:26:45:08]
+
+[10:26:46:06]
+M'ajudaràs a memoritzar el text de l'obra?
+[10:26:48:23]
+
+[10:26:49:02]
+-On és el papa?
+-No crec que trigui.
+[10:26:51:11]
+
+[10:26:52:13]
+-T'agrada la teva habitació?
+-Mmm...
+[10:26:54:14]
+
+[10:26:54:18]
+Sempre he somiat dormir a prop del papa i de la iaia.
+[10:26:57:18]
+
+[10:26:57:22]
+-T'hi acostumaràs ràpid.
+-A les classes no tant.
+[10:27:00:22]
+
+[10:27:01:01]
+Reconec que és millor que els pares no siguin mestres dels seus fills.
+[10:27:04:09]
+
+[10:27:04:13]
+Aguantaré estoicament.
+[10:27:06:12]
+
+[10:27:06:16]
+(mòbil: missatge, senyal acústic)
+[10:27:08:13]
+
+[10:27:08:17]
+Estoicament. Una de les parauletes que m'ha ficat al cap el papa.
+[10:27:11:11]
+
+[10:27:21:16]
+(clau: gira al pany)
+[10:27:23:17]
+
+[10:27:23:21]
+-Que no vols fruita?
+-No, no tinc gana.
+[10:27:26:04]
+
+[10:27:26:10]
+Hola.
+Hola.
+[10:27:27:24]
+
+[10:27:28:03]
+Com ha anat?
+Bé.
+[10:27:30:07]
+
+[10:27:30:11]
+Vols sopar, nen?
+Sí.
+[10:27:32:15]
+
+[10:27:32:19]
+M'han donat el paper.
+Bah... Estava cantat.
+[10:27:35:05]
+
+[10:27:35:09]
+Començo a assajar la setmana que ve.
+[10:27:37:14]
+
+[10:27:39:21]
+Oi que hi ha gent que regala gossos perquè no se'n pot cuidar?
+[10:27:44:00]
+
+[10:27:44:04]
+Sí. Per internet pots trobar anuncis.
+[10:27:46:03]
+
+[10:27:46:07]
+Hm.
+[10:27:47:09]
+
+[10:27:48:14]
+Tu no suportes els gossos.
+[10:27:50:14]
+
+[10:28:19:22]
+Bruno...
+[10:28:20:22]
+
+[10:28:24:17]
+Bruno, me'n vaig.
+[10:28:26:11]
+
+[10:28:26:21]
+On vas tan aviat?
+He de fer coses. Adéu.
+[10:28:29:11]
+
+[10:28:29:15]
+Papa...
+[10:28:31:05]
+
+[10:28:36:17]
+No hi ha cap professor que expliqui la seva vida a classe.
+[10:28:39:19]
+
+[10:28:39:23]
+No intentis fer-te amic dels alumnes, és patètic.
+[10:28:42:05]
+
+[10:28:42:09]
+Mira, Bruno, jo faig les classes així.
+[10:28:46:02]
+
+[10:28:46:06]
+No vaig veure que als teus companys els molestés. Adéu.
+[10:28:51:01]
+
+[10:28:51:05]
+Un moment!
+[10:28:52:21]
+
+[10:28:57:01]
+Si vols, pots explicar que ets el meu pare.
+[10:28:59:12]
+
+[10:29:01:09]
+Però no diguis que faig dansa.
+[10:29:03:13]
+
+[10:29:04:08]
+Cony, que es fotin si no els agrada.
+[10:29:06:12]
+
+[10:29:06:16]
+Papa!
+Està bé, està bé. No diré res.
+[10:29:10:06]
+
+[10:29:37:17]
+Has estat bé. Em va agradar molt la teva opinió sobre la novel·la.
+[10:29:41:00]
+
+[10:29:41:04]
+-Ah, sí?
+-Sí.
+[10:29:42:14]
+
+[10:29:42:18]
+Tens una gran capacitat crítica, Joan.
+[10:29:45:03]
+
+[10:29:45:07]
+-Gràcies. Bueno, vaig a classe.
+-Eee... sí.
+[10:29:47:22]
+
+[10:29:48:07]
+Arribo un pèl tard...
+Què hi portes, aquí?
+[10:29:50:17]
+
+[10:29:50:21]
+Ahir a la nit em va trucar un amic meu,
+[10:29:52:24]
+
+[10:29:53:03]
+i em va dir que es veien obligats a sacrificar uns gossos.
+[10:29:55:10]
+
+[10:29:55:14]
+Ja hi som...
+Sí.
+[10:29:57:17]
+
+[10:29:57:21]
+Això passa sovint.
+[10:29:59:19]
+
+[10:29:59:23]
+Jo també tinc amics que treballen en gosseres.
+[10:30:01:24]
+
+[10:30:02:03]
+Me n'ha donat un. No me n'he pogut estar.
+[10:30:04:10]
+
+[10:30:04:14]
+Mireu quina preciositat.
+És moníssim...
+[10:30:06:12]
+
+[10:30:09:18]
+I pensaven matar-lo?
+Es veu que sí, no ho sé.
+[10:30:12:03]
+
+[10:30:12:07]
+És molt tranquil, ja he parlat amb el conserge,
+[10:30:14:07]
+
+[10:30:14:11]
+estarà pendent d'ell fins que acabi la classe.
+[10:30:16:14]
+
+[10:30:16:18]
+El primer que has de fer és dur-lo al veterinari. En conec un de bo.
+[10:30:19:06]
+
+[10:30:19:10]
+En vols el telèfon?
+Perfecte.
+[10:30:21:18]
+
+[10:30:21:22]
+En realitat he fet una bogeria perquè no puc fer-me'n càrrec.
+[10:30:24:04]
+
+[10:30:24:08]
+Creus que em rebrà d'urgències, aquest veterinari?
+[10:30:26:09]
+
+[10:30:26:13]
+Vols que hi vagi jo?
+[10:30:28:04]
+
+[10:30:28:08]
+El conec molt. A més a mig matí tinc una hora lliure.
+[10:30:31:04]
+
+[10:30:31:08]
+Perfecte. T'ho agraeixo molt, gràcies.
+[10:30:33:09]
+
+[10:30:33:13]
+Vinga, va. Tothom a classe que és tard.
+[10:30:35:16]
+
+[10:30:35:20]
+Recordeu no encendre tots els llums dels departaments, hem d'estalviar.
+[10:30:38:24]
+
+[10:30:39:03]
+Aprofitem la llum del dia.
+[10:30:41:00]
+
+[10:30:41:04]
+El deixaré a la consulta i el meu amic em trucarà quan l'hagi visitat.
+[10:30:43:24]
+
+[10:30:44:03]
+El que vulguis.
+Tu tranquil, que hi ha confiança.
+[10:30:46:17]
+
+[10:30:49:08]
+Quina preciositat, eh.
+Sí.
+[10:30:51:11]
+
+[10:30:52:02]
+I el gos també.
+[10:30:53:23]
+
+[10:30:57:18]
+(enrenou de converses)
+[10:31:02:08]
+
+[10:31:25:06]
+(pica de mans)
+[10:31:26:16]
+
+[10:31:26:20]
+Silenci! Tothom al seu lloc!
+[10:31:28:19]
+
+[10:31:36:13]
+A veure... Hi falta algú, a classe?
+[10:31:39:11]
+
+[10:31:39:15]
+L'Ivan, el friqui.
+[10:31:41:20]
+
+[10:31:41:24]
+Ivan? Ivan? Ivan Blasco?
+[10:31:45:03]
+
+[10:31:45:07]
+Està una mica taradet. Fa dos mesos que no ve.
+[10:31:47:19]
+
+[10:31:48:12]
+El friqui.
+[10:31:49:21]
+
+[10:31:50:15]
+(inspira)
+[10:31:51:23]
+
+[10:31:52:02]
+Molt bé.
+[10:31:53:16]
+
+[10:31:57:13]
+Aquest és el meu cognom.
+[10:31:59:13]
+
+[10:32:05:18]
+Uooooh!!!
+[10:32:08:06]
+
+[10:32:10:09]
+Era veritat! És el pare del Bruno! Que fort!
+[10:32:13:12]
+
+[10:32:13:21]
+Bruno, si emprenyes et quedaràs el dissabte sense sortir.
+[10:32:17:07]
+
+[10:32:17:11]
+(rialles)
+[10:32:19:00]
+
+[10:32:19:09]
+A veure, no tinc ganes de quedar-me a classe avui. Seguiu-me.
+[10:32:22:23]
+
+[10:32:27:21]
+Us penseu que faig broma, o què? Seguiu-me!
+[10:32:30:14]
+
+[10:32:30:18]
+On anem?
+Veniu! Va!
+[10:32:32:13]
+
+[10:32:32:17]
+Seguiu-me!
+[10:32:34:01]
+
+[10:32:38:01]
+Vinga!
+(pica de mans)
+[10:32:39:22]
+
+[10:32:49:12]
+I així arribem a un dels autors de teatre
+[10:32:51:17]
+
+[10:32:51:21]
+més importants de la literatura catalana del s. XX.
+[10:32:56:09]
+
+[10:32:57:01]
+Algú sap com es diu?
+[10:32:58:22]
+
+[10:33:00:02]
+Ningú sap com es diu?
+[10:33:02:14]
+
+[10:33:04:04]
+Autor de teatre de...
+[10:33:06:15]
+
+[10:33:15:13]
+Ningú sap com es diu?
+[10:33:17:06]
+
+[10:33:25:18]
+Bon dia.
+[10:33:27:04]
+
+[10:33:37:19]
+Molt bé.
+[10:33:39:09]
+
+[10:33:39:13]
+Us he portat aquí perquè aquest m'ha semblat un lloc inspirador.
+[10:33:44:10]
+
+[10:33:44:14]
+El cervell podria ser la cuina de l'ésser humà.
+[10:33:48:21]
+
+[10:33:49:00]
+I també per explicar-vos
+[10:33:50:22]
+
+[10:33:51:01]
+que fa més de 2.000 anys hi va haver uns estudiants de filosofia
+[10:33:53:13]
+
+[10:33:53:17]
+que es deien els peripatètics.
+[10:33:55:13]
+
+[10:33:55:17]
+Patètics...
+[10:33:57:14]
+
+[10:33:58:15]
+No, no. Peripatètics. Eren estudiants de l'escola aristotèlica.
+[10:34:02:00]
+
+[10:34:02:04]
+Ja en parlarem, d'Aristòtil.
+[10:34:04:22]
+
+[10:34:05:01]
+I rebien aquest nom perquè filosofaven mentre caminaven.
+[10:34:09:05]
+
+[10:34:10:13]
+Camineu... Camineu, va.
+[10:34:13:08]
+
+[10:34:13:12]
+Camineu!
+[10:34:14:12]
+
+[10:34:14:19]
+Vinga, camineu, seguiu-me! Vinga!
+[10:34:17:19]
+
+[10:34:17:23]
+Els peripatètics deambulaven mentre reflexionaven.
+[10:34:22:02]
+
+[10:34:22:06]
+No sé si ho capteu?
+[10:34:24:07]
+
+[10:34:24:11]
+Doncs va, reflexioneu mentre camineu.
+[10:34:27:20]
+
+[10:34:27:24]
+Si algú té alguna reflexió interessant a fer, que ho digui.
+[10:34:30:11]
+
+[10:34:30:15]
+M'estic pixant!
+He dit una reflexió interessant.
+[10:34:34:09]
+
+[10:34:34:13]
+Va, treu-te la polla.
+Fliparies del pollot que tinc.
+[10:34:37:00]
+
+[10:34:37:04]
+Ei, Merlí, tinc una pregunta: tothom està capacitat per filosofar?
+[10:34:41:20]
+
+[10:34:49:21]
+-Ei, el teu pare es posa friqui.
+-Calla, tia!
+[10:34:52:15]
+
+[10:34:53:06]
+Què passa? Si no diu res!
+[10:34:55:07]
+
+[10:35:07:03]
+He estat callat per dues raons.
+[10:35:09:11]
+
+[10:35:09:15]
+Per pensar la resposta,
+[10:35:11:20]
+
+[10:35:11:24]
+i per demostrar que quan un pensa, la gent el mira malament.
+[10:35:15:01]
+
+[10:35:17:24]
+Per què està tan mal vist pensar?! No hauria de ser al revés?
+[10:35:21:03]
+
+[10:35:21:07]
+No és més censurable la gent que no reflexiona les coses?
+[10:35:24:07]
+
+[10:35:30:09]
+A la classe de filosofia podreu demostrar que sou animals racionals.
+[10:35:34:22]
+
+[10:35:35:01]
+A les altres assignatures podeu continuar sent animals i prou.
+[10:35:38:12]
+
+[10:35:38:16]
+Va, camineu, colla de bípedes!
+[10:35:41:00]
+
+[10:35:41:04]
+Camineu!
+[10:35:42:24]
+
+[10:35:43:03]
+Si quan éreu nens anàveu a la classe dels pingüins o dels dofins,
+[10:35:47:07]
+
+[10:35:47:11]
+ara aquesta classe serà la classe dels peripatètics.
+[10:35:50:20]
+
+[10:35:50:24]
+Merlí, estic enfadat amb tu.
+Ah, sí?
+[10:35:53:10]
+
+[10:35:53:14]
+No m'has contestat. Tothom pot filosofar sí o no?
+[10:35:56:01]
+
+[10:35:56:05]
+Tu què en penses?
+Jo?
+[10:35:58:15]
+
+[10:35:58:19]
+Jo crec que si la filosofia serveix per posar en dubte allò que sabem,
+[10:36:03:14]
+
+[10:36:03:18]
+penso que tothom pot fer-ho,
+[10:36:06:09]
+
+[10:36:06:13]
+però a la gent li sua; no tothom vol fer-ho.
+[10:36:09:09]
+
+[10:36:10:12]
+T'acabes de convertir en el meu alumne preferit.
+[10:36:13:05]
+
+[10:36:13:09]
+Vaaaamos!!
+Que cabró!
+[10:36:15:12]
+
+[10:36:15:20]
+Que el Pol sigui el meu preferit
+[10:36:17:18]
+
+[10:36:17:22]
+no vol dir que no pugueu batallar per prendre-li el lloc.
+[10:36:20:05]
+
+[10:36:20:11]
+Vaig per tu!
+Tranquil. Tranquils tots...
+[10:36:22:24]
+
+[10:36:23:03]
+Sort que no vaig fer cas del que opina de tu el professor de català,
+[10:36:25:23]
+
+[10:36:26:02]
+que em va dir que vigilés amb tu perquè eres un impertinent.
+[10:36:28:13]
+
+[10:36:29:15]
+Va! Camineu i reflexioneu!
+[10:36:32:19]
+
+[10:36:33:11]
+Camineu i reflexioneu!
+[10:36:35:19]
+
+[10:36:35:23]
+Puto Eugeni Bosch...
+[10:36:38:06]
+
+[10:36:38:10]
+Reflexioneu...
+[10:36:39:21]
+
+[10:36:45:22]
+Passa-m'ho per mail i ja et diré alguna cosa. Et sembla?
+[10:36:49:04]
+
+[10:36:49:08]
+Hola.
+Ei, què passa?
+[10:36:51:08]
+
+[10:36:51:12]
+M'han dit que l'Eugeni Bosch em critica a la sala de profes.
+[10:36:53:22]
+
+[10:36:54:01]
+No és cert.
+[10:36:55:09]
+
+[10:36:55:13]
+Després dieu que no teniu mania als alumnes.
+[10:36:57:13]
+
+[10:36:57:17]
+L'Eugeni no et té mania.
+Diu que s'ha de vigilar amb mi.
+[10:36:59:19]
+
+[10:36:59:23]
+I m'insulta.
+Qui t'ho ha dit?
+[10:37:01:23]
+
+[10:37:02:02]
+El Merlí Bergeron.
+[10:37:03:20]
+
+[10:37:05:14]
+(sospira)
+[10:37:06:16]
+
+[10:37:20:11]
+Què, com ha anat per la cuina amb els nois?
+[10:37:23:13]
+
+[10:37:23:17]
+Bé.
+El que ens faltava.
+[10:37:25:18]
+
+[10:37:25:22]
+A tots els instituts hi ha el profe que vol ensenyar de manera creativa.
+[10:37:29:16]
+
+[10:37:29:20]
+Que Déu m'alliberi de ser ortodox.
+[10:37:32:11]
+
+[10:37:32:21]
+Ja. Jo sóc més clàssic, ho reconec.
+[10:37:36:09]
+
+[10:37:36:13]
+No vaig de col·lega amb els nois.
+[10:37:39:03]
+
+[10:37:39:07]
+Crec que és molt important
+[10:37:42:08]
+
+[10:37:42:12]
+mantenir la distància entre professor i alumne.
+[10:37:45:08]
+
+[10:37:45:12]
+A mi m'interessa més la distància entre professor i professor.
+[10:37:48:10]
+
+[10:37:48:14]
+Ja. Al Bruno no li deu fer gaire gràcia tenir-te a classe.
+[10:37:53:10]
+
+[10:37:53:21]
+Està encantat.
+[10:37:55:06]
+
+[10:37:55:10]
+Eugeni... Eugeni, l'Ivan Blasco segueix sense venir.
+[10:37:58:18]
+
+[10:37:58:22]
+-Qui li farà el seguiment.
+-Jo. M'he ofert voluntari.
+[10:38:01:08]
+
+[10:38:01:12]
+Ivan Blasco? Què li passa a aquest noi?
+[10:38:03:24]
+
+[10:38:04:03]
+Té agorafòbia. No vol sortir de casa.
+[10:38:06:04]
+
+[10:38:06:08]
+Ja es veia que era una mica raret, però és bon estudiant.
+[10:38:09:08]
+
+[10:38:09:12]
+Faré tot el possible perquè torni a sortir al carrer.
+[10:38:12:00]
+
+[10:38:12:04]
+Vés a saber, potser quan et vegi entrar a casa li agafa per sortir.
+[10:38:15:14]
+
+[10:38:15:18]
+(s'escura la gola)
+[10:38:17:14]
+
+[10:38:21:20]
+Què li passa a aquest?
+[10:38:23:17]
+
+[10:38:23:21]
+Res, res.
+[10:38:25:13]
+
+[10:38:26:18]
+A la Laia li agraden molt, els gossets.
+[10:38:29:00]
+
+[10:38:30:06]
+Molt.
+[10:38:31:10]
+
+[10:38:32:12]
+Molt.
+[10:38:33:17]
+
+[10:38:33:21]
+Tan difícil és fer la classe normal?
+[10:38:36:11]
+
+[10:38:36:15]
+El concepte "normal" ens pot portar a un debat interminable.
+[10:38:40:01]
+
+[10:38:40:05]
+Per tu, què vol dir "normal"?
+Normal vol dir normal, papa.
+[10:38:43:00]
+
+[10:38:43:04]
+Collons, quin fill més profund que tinc.
+[10:38:45:07]
+
+[10:38:45:11]
+Mira, el que avui es considera normal no ho era fa uns quants anys.
+[10:38:48:01]
+
+[10:38:48:06]
+És una lliçó "foucaultiana".
+[10:38:50:01]
+
+[10:38:50:05]
+Ho veus com dius coses rares?! "Fucosiana"!
+[10:38:52:11]
+
+[10:38:52:15]
+Què collons significa "fucosiana"?
+[10:38:54:15]
+
+[10:38:54:19]
+Per què et comportes així amb els meus amics?
+[10:38:56:22]
+
+[10:38:57:01]
+T'has quedat 3 minuts callat, i després aquesta collonada de pensar.
+[10:38:59:22]
+
+[10:39:00:01]
+Tens gelos del Pol?
+Ui sí, em moro de gelos!
+[10:39:03:05]
+
+[10:39:03:09]
+Sàpigues que el Pol està emprenyat amb l'Eugeni per això que has dit.
+[10:39:06:10]
+
+[10:39:06:14]
+No m'estranya.
+[10:39:08:08]
+
+[10:39:08:12]
+Per què li has dit això?
+[10:39:10:14]
+
+[10:39:10:18]
+Mira, Bruno, l'Eugeni és el tipus de professor que detesto...
+[10:39:13:14]
+
+[10:39:13:18]
+perquè considera que els alumnes són els seus enemics.
+[10:39:16:05]
+
+[10:39:16:09]
+Quan ell entra a classe li vénen tots els mals.
+[10:39:18:11]
+
+[10:39:18:15]
+A mi, em passen de cop.
+Bruno! T'espero fora.
+[10:39:21:10]
+
+[10:39:21:14]
+Ara vinc.
+[10:39:23:01]
+
+[10:39:23:05]
+Només et demano que no donis la nota.
+[10:39:25:14]
+
+[10:39:25:18]
+T'hauràs d'acostumar a tenir-me de professor.
+[10:39:28:08]
+
+[10:39:28:12]
+Bruno, "campeón"!
+[10:39:29:18]
+
+[10:39:29:22]
+Potser faràs més amics sent el fill del profe de filo.
+[10:39:32:09]
+
+[10:39:34:02]
+Papa! No he acabat d'entendre això dels peripatètics.
+[10:39:38:03]
+
+[10:39:38:07]
+M'ho explicaràs a casa?
+[10:39:40:06]
+
+[10:39:40:10]
+Viquipèdia, nen, viquipèdia.
+[10:39:42:09]
+
+[10:39:43:13]
+Bfff!!!
+[10:39:44:24]
+
+[10:39:47:05]
+(copets)
+[10:39:48:18]
+
+[10:39:48:22]
+Podem parlar un minut?
+Sí, mira justament... Seu.
+[10:39:51:12]
+
+[10:39:53:06]
+Escolta... eee... Toni,
+[10:39:56:06]
+
+[10:39:56:23]
+com has deixat que l'Eugeni es coli a casa d'un agorafòbic?
+[10:39:59:24]
+
+[10:40:00:16]
+És cruel..., és... és com de Dickens.
+[10:40:03:10]
+
+[10:40:04:24]
+Hòstia!
+[10:40:06:14]
+
+[10:40:06:18]
+Però tu t'has vist?
+[10:40:08:16]
+
+[10:40:08:20]
+Entres al meu despatx i em parles com... com si hi hagués confiança.
+[10:40:12:06]
+
+[10:40:13:02]
+Merlí, no m'agrada la teva actitud.
+[10:40:15:02]
+
+[10:40:15:06]
+Només fa dos dies que ets aquí i ja estàs creant problemes.
+[10:40:17:22]
+
+[10:40:18:11]
+Li has dit al Pol Rubio que l'Eugeni el critica?
+[10:40:20:13]
+
+[10:40:20:17]
+És veritat. El critica.
+[10:40:22:09]
+
+[10:40:22:13]
+Als alumnes no se'ls hi ha dir les converses privades dels professors.
+[10:40:26:03]
+
+[10:40:26:07]
+Mira, Toni, no suporto aquest tipus de professor mediocre.
+[10:40:29:04]
+
+[10:40:29:08]
+N'he conegut molts, i em posen a parir.
+[10:40:31:11]
+
+[10:40:31:15]
+L'Eugeni és molt bon professor.
+[10:40:33:16]
+
+[10:40:33:20]
+No. Només se sap vendre. No té talent.
+[10:40:35:23]
+
+[10:40:37:06]
+Deixem-ho aquí.
+Deixem-ho aquí.
+[10:40:39:04]
+
+[10:40:39:08]
+Pots explicar-me què ha passat exactament amb aquest Ivan Blasco?
+[10:40:44:18]
+
+[10:40:44:22]
+Ah. Sí. Sembla que el noi se sentia apartat del grup.
+[10:40:48:00]
+
+[10:40:48:04]
+De tant en tant no venia a classe, arribava tard.
+[10:40:50:08]
+
+[10:40:50:12]
+I finalment va deixar de venir.
+[10:40:52:14]
+
+[10:40:53:21]
+La seva mare ens va portar la baixa.
+[10:40:55:21]
+
+[10:40:56:00]
+Li han diagnosticat un principi d'agorafòbia.
+[10:40:58:17]
+
+[10:40:58:21]
+No surt de casa?
+No vol.
+[10:41:00:22]
+
+[10:41:01:01]
+I no vol saber-ne res, de psicòlegs.
+[10:41:03:01]
+
+[10:41:03:05]
+Ella és mare soltera, treballa tot el dia,
+[10:41:04:24]
+
+[10:41:05:03]
+i, en fi, no pot fer-se'n càrrec.
+[10:41:07:20]
+
+[10:41:07:24]
+Jo li vaig prometre que trobaria algun professor voluntari
+[10:41:10:18]
+
+[10:41:10:22]
+per fer-li un seguiment.
+[10:41:12:19]
+
+[10:41:12:23]
+L'Eugeni es va oferir...
+Serà un agreujament de la malaltia.
+[10:41:15:22]
+
+[10:41:18:21]
+Està decidit. L'Eugeni serà el professor de reforç de l'Ivan.
+[10:41:23:02]
+
+[10:41:23:16]
+Comença demà. Sense cobrar, evidentment.
+[10:41:25:16]
+
+[10:41:25:20]
+Que generós.
+[10:41:27:06]
+
+[10:41:27:10]
+(telèfon)
+[10:41:29:04]
+
+[10:41:29:08]
+Sí?
+[10:41:30:17]
+
+[10:41:30:21]
+Sí, ara t'ho miro, un segon.
+[10:41:32:20]
+
+[10:41:45:19]
+Ah, molt bé. Doncs moltes gràcies, eh.
+[10:41:48:17]
+
+[10:41:50:03]
+Adéu.
+[10:41:51:03]
+
+[10:41:51:07]
+Merlí, he parlat amb el veterinari i diu que el gos està perfecte.
+[10:41:55:12]
+
+[10:41:55:16]
+Que bé! Hòstia, quin descans.
+El pots anar a buscar quan vulguis.
+[10:41:59:05]
+
+[10:41:59:09]
+Ja. Però saps què passa? Que he hagut de deixar el meu pis...
+[10:42:02:09]
+
+[10:42:02:13]
+i temporalment estic vivint a casa de ma mare.
+[10:42:04:13]
+
+[10:42:04:17]
+I no n'he parlat amb ella, és clar.
+I què faràs si no el vol?
+[10:42:08:02]
+
+[10:42:08:06]
+Discutir-m'hi, suposo, perquè no abandonaré el gos al carrer.
+[10:42:12:00]
+
+[10:42:12:04]
+Ah. Jo hi he estat pensant, i si no te'n pots fer càrrec...
+[10:42:17:24]
+
+[10:42:18:03]
+A mi no em faria res quedar-me'l.
+Però ja en tens un, no?
+[10:42:20:14]
+
+[10:42:20:18]
+Sí. Però m'he enamorat d'aquest gosset, no em fa res tenir-ne dos.
+[10:42:25:17]
+
+[10:42:25:21]
+L'hi hauràs de preguntar a la teva parella.
+[10:42:28:07]
+
+[10:42:28:11]
+Per què, si visc sola?
+[10:42:30:13]
+
+[10:42:30:17]
+Ah, sí?
+Sí.
+[10:42:31:20]
+
+[10:42:31:24]
+A mi em va perfecte que te'l quedis,
+[10:42:33:24]
+
+[10:42:34:03]
+de fet em fas un favor perquè m'he fotut en un merder...
+[10:42:36:16]
+
+[10:42:36:20]
+Jo encantada.
+[10:42:38:10]
+
+[10:42:38:14]
+I què passa si els dos gossos no... no s'avenen?
+[10:42:41:14]
+
+[10:42:41:18]
+Suposo que sí.
+Escolta, per què...?
+[10:42:44:06]
+
+[10:42:44:10]
+Vols que els portem a passejar a un parc per comprovar-ho?
+[10:42:47:18]
+
+[10:42:48:19]
+Bueno.
+Quedem després?
+[10:42:51:10]
+
+[10:42:51:14]
+Sí. Perfecte.
+[10:42:53:07]
+
+[10:42:53:11]
+Adéu.
+Adéu.
+[10:42:54:17]
+
+[10:42:56:06]
+Obre, sisplau.
+[10:42:58:02]
+
+[10:42:58:06]
+Ivan!
+[10:42:59:13]
+
+[10:42:59:17]
+He de tornar al bar.
+[10:43:01:16]
+
+[10:43:02:03]
+No facis que hagi de trucar a la policia, sisplau!
+[10:43:04:20]
+
+[10:43:16:24]
+(bufa)
+[10:43:18:06]
+
+[10:43:18:10]
+(dona) Ivan, obre, sisplau! He de tornar al bar!
+[10:43:23:08]
+
+[10:43:23:12]
+Obre, sisplau, Ivan!
+[10:43:26:14]
+
+[10:43:27:17]
+Ivan!
+[10:43:29:08]
+
+[10:43:31:05]
+Hola. Perdona, ets la mare de l'Ivan Blasco?
+[10:43:34:01]
+
+[10:43:34:05]
+Sí.
+[10:43:36:04]
+
+[10:43:37:03]
+Vinc de l'Institut Àngel Guimerà. Sóc el professor de reforç.
+[10:43:40:11]
+
+[10:43:40:15]
+T'esperàvem demà... Jo em dic Míriam.
+[10:43:43:22]
+
+[10:43:44:12]
+Merlí.
+[10:43:45:13]
+
+[10:43:45:24]
+No venia un tal Eugeni?
+[10:43:47:24]
+
+[10:43:48:11]
+No... Hi deu haver una confusió.
+[10:43:50:13]
+
+[10:43:50:17]
+És igual, ja va bé que hagis vingut: s'ha tancat per dins amb baldó.
+[10:43:54:08]
+
+[10:43:54:12]
+Ja parlaré amb ell.
+[10:43:56:08]
+
+[10:43:56:12]
+Ivan, ha vingut un professor que t'ajudarà. Obre!
+[10:44:00:06]
+
+[10:44:01:12]
+He de tornar al bar!
+[10:44:03:22]
+
+[10:44:04:01]
+Porto el bar d'aquí davant, he sortit un moment i hi he de tornar.
+[10:44:07:06]
+
+[10:44:07:10]
+No pateixis, ja me'n cuido.
+Gràcies.
+[10:44:09:15]
+
+[10:44:09:19]
+El Toni em va dir que no hauria de pagar, però hi insisteixo.
+[10:44:12:21]
+
+[10:44:13:00]
+Pactem un preu per hora.
+Ja parlarem dels honoraris.
+[10:44:15:15]
+
+[10:44:15:19]
+Tranquil·la.
+[10:44:16:23]
+
+[10:44:17:02]
+Ivan, me'n vaig a treballar, et quedes amb el Merlí!
+[10:44:19:19]
+
+[10:44:19:23]
+Gràcies. Per qualsevol cosa, sóc al bar d'aquí al davant.
+[10:44:23:11]
+
+[10:44:23:15]
+Sí, vés, vés, no pateixis.
+[10:44:25:18]
+
+[10:44:28:04]
+Ivan, sé que estàs escoltant a l'altra banda.
+[10:44:32:00]
+
+[10:44:32:18]
+A partir d'ara sóc el teu professor particular
+[10:44:36:09]
+
+[10:44:36:13]
+mentre no tornis a l'institut.
+[10:44:38:21]
+
+[10:44:39:00]
+M'obres?
+[10:44:40:08]
+
+[10:44:46:04]
+Aii... Estic asseguda a la butaca d'un profe.
+[10:44:48:13]
+
+[10:44:48:17]
+-Però si ta mare també és profe.
+-I què?
+[10:44:51:10]
+
+[10:44:51:14]
+Com a mínim ta mare no treballa a l'institut.
+[10:44:55:05]
+
+[10:44:55:09]
+El teu pare mola.
+[10:44:57:08]
+
+[10:44:57:12]
+Quan jo sigui mestra m'agradaria ser com ell.
+[10:44:59:13]
+
+[10:44:59:17]
+-Hola.
+-Hola, iaia!
+[10:45:01:22]
+
+[10:45:02:24]
+Ui, qui és aquesta nena tan maca?
+[10:45:04:24]
+
+[10:45:05:03]
+La Tània.
+[10:45:06:12]
+
+[10:45:06:16]
+Ah, molt bé. Jo sóc la Carmina Calduch.
+[10:45:09:02]
+
+[10:45:09:06]
+Ja ho sé. Vostè és actriu. La de l'anunci, no?
+[10:45:12:16]
+
+[10:45:12:20]
+Nena, creu-me, he fet coses millors que aquell anunci de paté.
+[10:45:17:00]
+
+[10:45:17:04]
+És clar, vostè és una de les millors actrius del país.
+[10:45:20:00]
+
+[10:45:20:04]
+Ah, sí? I quines són les altres?
+[10:45:23:02]
+
+[10:45:26:18]
+La gent del teatre està una miqueta... (xiula) desequilibrada.
+[10:45:29:12]
+
+[10:45:30:12]
+Es nota que va parir el friqui del meu pare.
+[10:45:32:14]
+
+[10:45:32:18]
+Ai, què et passa? Només és per això del Merlí?
+[10:45:37:03]
+
+[10:45:38:13]
+-Sí...
+-Mentida.
+[10:45:40:10]
+
+[10:45:40:14]
+Va, digues... m'estàs amagant alguna cosa.
+[10:45:42:24]
+
+[10:45:44:17]
+A veure...
+[10:45:46:02]
+
+[10:45:46:06]
+Em sembla... bueno, no, no m'ho sembla.
+[10:45:49:00]
+
+[10:45:49:13]
+M'agrada algú.
+[10:45:51:12]
+
+[10:45:56:03]
+Cabró, no m'ho havies dit fins ara!
+[10:45:58:03]
+
+[10:45:58:07]
+No som tan amics que sempre ens ho expliquem tot?
+[10:46:00:09]
+
+[10:46:00:13]
+I qui és?
+[10:46:02:10]
+
+[10:46:02:14]
+-No t'ho diré.
+-Per què?
+[10:46:04:23]
+
+[10:46:05:02]
+-Tu tampoc véns a ballar amb mi...
+-Vindré quan vulguis, però digues!
+[10:46:08:14]
+
+[10:46:08:18]
+-No t'ho diré.
+-Qui és? Va, si us plau!
+[10:46:11:07]
+
+[10:46:11:11]
+Nena, nena, nena! Que aquest coixí és un record del "Cyrano"!
+[10:46:15:21]
+
+[10:46:16:00]
+Ai, perdó.
+[10:46:18:00]
+
+[10:46:18:04]
+-Jo et vaig dir que em mola el Marc!
+-El Marc és un guarro.
+[10:46:21:14]
+
+[10:46:21:18]
+Jo quan tingui nòvio potser també sóc una mica guarra...
+[10:46:24:07]
+
+[10:46:30:18]
+En realitat és demà que ha de venir el teu professor voluntari.
+[10:46:34:07]
+
+[10:46:34:11]
+L'Eugeni Bosch. Jo m'he avançat.
+[10:46:36:12]
+
+[10:46:39:17]
+Tu deus ser com aquells filòsofs cínics,
+[10:46:42:08]
+
+[10:46:42:12]
+que creien que només poden aconseguir la virtut
+[10:46:44:24]
+
+[10:46:45:03]
+fora de la societat, oi?
+[10:46:47:06]
+
+[10:46:47:10]
+És que sóc professor de filosofia, saps?
+[10:46:49:14]
+
+[10:46:54:20]
+(bufa)
+[10:46:56:04]
+
+[10:46:56:08]
+T'explicaré una anècdota.
+[10:46:59:02]
+
+[10:47:00:11]
+Quan Diògenes era esclau, el seu amo li va preguntar:
+[10:47:04:04]
+
+[10:47:04:08]
+"Què és el que saps fer millor?"
+[10:47:06:06]
+
+[10:47:06:10]
+I sap què li va contestar, ell?
+[10:47:08:14]
+
+[10:47:08:18]
+Li va dir: "Jo sé manar. I et mano que m'alliberis".
+[10:47:13:12]
+
+[10:47:13:16]
+I llavors l'amo li va concedir la llibertat.
+[10:47:16:24]
+
+[10:47:17:03]
+I el van convertir en tutor dels seus fills.
+[10:47:20:04]
+
+[10:47:21:16]
+T'ha agradat?
+[10:47:23:14]
+
+[10:47:24:12]
+Suposo que no t'importa una merda, oi?,
+[10:47:27:05]
+
+[10:47:27:09]
+però l'Eugeni no t'explicaria aquestes anècdotes.
+[10:47:29:21]
+
+[10:47:31:18]
+Bah!
+[10:47:33:00]
+
+[10:47:33:23]
+Molt bé, adéu! Aquí et quedes.
+[10:47:37:10]
+
+[10:47:52:08]
+(bufa)
+[10:47:53:19]
+
+[10:47:55:02]
+Se'ns ha girat feina.
+[10:47:57:03]
+
+[10:48:02:12]
+Està clar que han congeniat.
+[10:48:04:17]
+
+[10:48:04:21]
+Sí! Al parc tothom se'ls quedava mirant.
+[10:48:07:14]
+
+[10:48:07:23]
+Pispa... Pispa...
+[10:48:10:19]
+
+[10:48:10:23]
+que t'ho passes amb el...
+[10:48:13:14]
+
+[10:48:14:08]
+Quin nom li posaràs?
+Eh?
+[10:48:16:08]
+
+[10:48:16:12]
+(accent francès) Descartes.
+[10:48:18:03]
+
+[10:48:18:07]
+Descartes, el filòsof?
+Oui, Descartes.
+[10:48:21:24]
+
+[10:48:22:03]
+M'agrada molt com sona el francès.
+Sí?
+[10:48:24:04]
+
+[10:48:24:08]
+Sí.
+[10:48:25:09]
+
+[10:48:25:20]
+Vaig viure a París.
+A París?
+[10:48:27:17]
+
+[10:48:27:21]
+Quan ma mare hi treballava.
+A veure, parla francès.
+[10:48:30:10]
+
+[10:48:30:20]
+Què vols que digui ara? De què parlo?
+[10:48:33:09]
+
+[10:48:33:13]
+De filosofia. De "Descartes", per exemple...
+[10:48:37:07]
+
+[10:48:39:09]
+Bon, je suis une chose qui pense...
+[10:48:42:07]
+
+[10:48:42:11]
+Sóc una cosa que pensa.
+[10:48:44:22]
+
+[10:48:45:10]
+...qui doute, qui affirme, qui nie...
+[10:48:49:09]
+
+[10:48:49:13]
+Que dubte, que afirma...
+[10:48:52:22]
+
+[10:48:53:01]
+"qui ni"?
+[10:48:54:24]
+
+[10:48:56:15]
+Que nega.
+[10:48:58:04]
+
+[10:48:59:14]
+Qui aime...
+[10:49:01:00]
+
+[10:49:01:07]
+Espera, donaré menjar als gossos...
+[10:49:04:07]
+
+[10:49:05:05]
+Qui aime, qui veut, qui ne veut pas...
+[10:49:08:23]
+
+[10:49:09:17]
+Je pense, donc je suis.
+[10:49:11:20]
+
+[10:49:11:24]
+Jo penso, per tant existeixo.
+Mm-hm.
+[10:49:15:19]
+
+[10:49:36:13]
+(gos: grinyola)
+[10:49:38:11]
+
+[10:50:14:16]
+Què? Com va?
+Véns a parlar de coses profundes?
+[10:50:18:04]
+
+[10:50:19:18]
+En el fons tens el mateix sentit de l'humor que ton pare. M'agrada.
+[10:50:23:10]
+
+[10:50:23:14]
+Estàs content.
+Sí.
+[10:50:25:24]
+
+[10:50:26:03]
+Avui he aconseguit un petit sobresou.
+[10:50:28:08]
+
+[10:50:28:12]
+De què?
+[10:50:30:00]
+
+[10:50:30:04]
+L'Ivan Blasco. Li faré classes particulars a casa.
+[10:50:32:14]
+
+[10:50:32:18]
+No parlava gaire.
+[10:50:34:08]
+
+[10:50:34:12]
+No. Però m'ha obert la porta. És un començament.
+[10:50:36:21]
+
+[10:50:37:00]
+Té.
+[10:50:38:01]
+
+[10:50:44:06]
+Mòbil nou!
+[10:50:45:23]
+
+[10:50:48:07]
+Això és dels xinos. És d'imitació.
+[10:50:50:05]
+
+[10:50:50:09]
+No, perdona, els mòbils bons imiten aquest.
+[10:50:53:22]
+
+[10:50:54:01]
+És molt millor que el que tenies, sí o no?
+[10:50:56:09]
+
+[10:50:56:23]
+Sí.
+Ah.
+[10:50:58:14]
+
+[10:50:59:00]
+De res, eh.
+[10:51:00:18]
+
+[10:51:00:22]
+Merci.
+[10:51:02:09]
+
+[10:51:02:13]
+Ah, els peripatètics eren uns estudiants de la filosofia...
+[10:51:06:23]
+
+[10:51:07:02]
+Ja ho sé. Ho he buscat a la viquipèdia
+[10:51:09:11]
+
+[10:51:09:15]
+És més ràpida que la "Merlipèdia".
+[10:51:11:13]
+
+[10:51:12:21]
+Au, bona nit.
+[10:51:14:15]
+
+[10:51:15:13]
+Papa...
+[10:51:16:16]
+
+[10:51:19:21]
+Tinc por del que puguis arribar a fer a classe.
+[10:51:24:02]
+
+[10:51:30:09]
+Reconeix que ets... "raro".
+[10:51:32:20]
+
+[10:51:33:14]
+Complicat.
+[10:51:35:04]
+
+[10:51:36:02]
+Sí, sí, sí. Sí, sóc complicat.
+[10:51:39:13]
+
+[10:51:39:17]
+Però encara ho és més el món en què vius, eh.
+[10:51:42:24]
+
+[10:51:43:03]
+Tot està fet una merda!
+[10:51:45:21]
+
+[10:51:46:00]
+No vull que caiguis en la desídia, ni en el pessimisme.
+[10:51:49:06]
+
+[10:51:49:10]
+vull que t'impliquis en les coses,
+[10:51:51:11]
+
+[10:51:51:15]
+que siguis crític amb el que t'envolta.
+[10:51:54:05]
+
+[10:51:54:09]
+Ja sé que és un pal pensar en aquestes coses,
+[10:51:56:09]
+
+[10:51:56:13]
+però no em crec que els adolescents
+[10:51:58:16]
+
+[10:51:58:20]
+només tingueu al cap el sexe i emborratxar-vos...
+[10:52:01:21]
+
+[10:52:03:03]
+També teniu... pors, oi?
+[10:52:06:07]
+
+[10:52:07:02]
+Voleu experimentar coses noves però a la vegada esteu acollonits.
+[10:52:10:09]
+
+[10:52:10:13]
+Sou com... com actors amateurs
+[10:52:13:22]
+
+[10:52:14:01]
+abans de sortir a l'escenari per primer cop.
+[10:52:17:09]
+
+[10:52:19:11]
+Ai, no ho sé, mira...
+[10:52:22:03]
+
+[10:52:22:07]
+Potser t'enamoraràs un dia i no seràs correspost.
+[10:52:25:14]
+
+[10:52:25:18]
+Així és la vida: no sempre agrades a qui t'agrada.
+[10:52:30:00]
+
+[10:52:31:18]
+Sí, Bruno, sí, tens un pare complicat i tot el que tu vulguis,
+[10:52:34:22]
+
+[10:52:35:01]
+però sóc el millor professor que has tingut,
+[10:52:37:13]
+
+[10:52:37:17]
+i amb el temps t'adonaràs que tinc raó.
+[10:52:40:13]
+
+[10:52:42:19]
+Paciència... ja sé que sóc difícil.
+[10:52:45:17]
+
+[10:52:45:21]
+però t'ho hauràs de prendre amb filosofia.
+[10:52:48:13]
+
+[10:52:53:24]
+Has d'estar al servei de l'institut no l'institut al teu servei.
+[10:52:57:17]
+
+[10:52:57:21]
+Fes el favor de no saltar-te cap més norma, a partir d'ara.
+[10:53:01:05]
+
+[10:53:01:21]
+Qui vol fer trampes al certamen literari?
+[10:53:04:04]
+
+[10:53:05:16]
+Què diu, aquest "pavo"? Està sonat!
+[10:53:07:18]
+
+[10:53:09:03]
+Què et passa?
+No em ve la regla.
+[10:53:11:18]
+
+[10:53:11:22]
+Què?!
+[10:53:13:03]
+
+[10:53:13:24]
+Va ser sexe i prou. Però et va agradar, eh?
+[10:53:16:04]
+
+[10:53:16:08]
+Saps què et dic? Que entre tu i jo no tornarà a passar res de res.
+[10:53:20:07]
+
+[10:53:20:11]
+-Jo he escrit uns versos pel poema.
+-Llegiràs això davant del teu pare?
+[10:53:24:04]
+
+[10:53:25:12]
+Molt bé.
+[10:53:26:20]
+
+[10:53:26:24]
+Em revoluciones el galliner. Estàvem molt tranquils abans que arribessis.
+[10:53:30:10]
+
+[10:53:31:18]
+-Aaaah!
+-Aaaah!
+[10:53:33:06]
+
+[10:53:33:10]
+-Hòstia puta!
+-No m'havies dit que no hi seria?!
+[10:53:35:12]
+
+[10:53:35:24]
+Dóna'm!
+[10:53:37:05]
+
+[10:53:38:08]
+Fill...
+No!
+[10:53:39:09]
+
+[10:53:39:13]
+I vesteix-te, que vas en pilotes...
+Sí.
+[10:53:42:04]
+
+[10:53:42:08]
+Ivan, mira'm.
+[10:53:43:18]
+
+[10:53:43:22]
+Mira'm.
+[10:53:45:03]
+
+[10:53:49:06]
+Calla d'una puta vegada.
+[10:53:51:06]
+
+[10:53:51:10]
+Marc, deixa'l. Jo sé què li passa.
+[10:53:53:16]
+
+[10:53:54:11]
+-Què fots, fill de puta!
+-Vale, vale, vale.
+[10:53:57:15]
+
