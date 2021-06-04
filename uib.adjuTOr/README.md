@@ -1,5 +1,4 @@
-# uib.adjutor
-![alt text](https://github.com/nomdebarri/ScripTOr/blob/master/ScripTOr_v2.png?raw=true)
+![alt text](https://adjutor.neocities.org/scriptor_github.png?raw=true)
 
 **Pere Garau Borràs**
 
